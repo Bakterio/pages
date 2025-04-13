@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian-vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidian-vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 13 Apr 2025 08:49:06 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 13 Apr 2025 08:47:54 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Aischilos]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian-vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidian-vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 13 Apr 2025 13:25:27 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 13 Apr 2025 13:24:12 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Aischilos]]></title><description><![CDATA[ 
  <br><br>
 <br>Prometheus dá lidem oheň, i když to Zeus zakázal
 <br>za trest je připoután ke skále
@@ -161,7 +161,12 @@
 <br>rozluštil deníky <a data-href="Karel Hynek Mácha" href="gjb/čeština/autoři/karel-hynek-mácha.html" class="internal-link" target="_self" rel="noopener nofollow">Karel Hynek Mácha</a>
 <br>působil v Lidových novinách
 <br>vynalezl Romaneto<br>
-Romaneto<br>
+Romaneto<br><br>
+<br>vymyslel <a data-href="Jakub Arbes" href="gjb/čeština/autoři/jakub-arbes.html" class="internal-link" target="_self" rel="noopener nofollow">Jakub Arbes</a>
+<br>kratší román, novela
+<br>snaha vysvětlit zápletu děje věděcky, detektivně
+<br>málo postav
+
 <br><br>
 <br>myšlenka: pokud bychom znali veškeré procesy v přírodě, mohli bychom předpovídat budoucnost
 <br>Newtonův mozek - stroj, který předpovídá budoucnost
@@ -254,7 +259,21 @@ Romaneto<br>
 <br>několikrát nominován
 <br>nedostal ji, kvůli jeho antinacistickým názorům
 <br>udělovali NC nechtěli zbytečně naštvat Hitlera
-<br><br>Pátečníci<br><br><br><br>
+<br><br>Pátečníci<br><br>
+<br>okruh intelektuálů kolem <a data-href="Karel Čapek" href="gjb/čeština/autoři/karel-čapek.html" class="internal-link" target="_self" rel="noopener nofollow">Karel Čapek</a> a <a data-href="Josef Čapek" href="Josef Čapek" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Josef Čapek</a>
+<br>scházeli se v pátek ve dvouvile bratří Čapků na Vinohradech
+<br><br>
+<br><a data-href="Karel Čapek" href="gjb/čeština/autoři/karel-čapek.html" class="internal-link" target="_self" rel="noopener nofollow">Karel Čapek</a>
+<br><a data-href="Josef Čapek" href="Josef Čapek" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Josef Čapek</a>
+<br><br>
+<br><a data-href="T. G. Masaryk" href="T. G. Masaryk" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">T. G. Masaryk</a>
+<br><a data-href="Edvard Beneš" href="Edvard Beneš" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Edvard Beneš</a>
+<br><a data-href="Jan Masaryk" href="Jan Masaryk" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Jan Masaryk</a>
+<br><br>
+<br><a data-href="Ferdinand Peroutka" href="gjb/čeština/autoři/ferdinand-peroutka.html" class="internal-link" target="_self" rel="noopener nofollow">Ferdinand Peroutka</a>
+<br><a data-href="Eduard Bass" href="gjb/čeština/autoři/eduard-bass.html" class="internal-link" target="_self" rel="noopener nofollow">Eduard Bass</a>
+<br><a data-href="Karel Poláček" href="Karel Poláček" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Karel Poláček</a>
+<br><br><br>
 <br>stanou se novinami Československé národně demokratické strany - již nejsou nezávislé
 <br>zdáli se mu politicky směřované proti TGM
 <br>bratr Josef donucen odejít =&gt; Karel odešel s ním do Lidových novin
@@ -403,7 +422,7 @@ Romaneto<br>
 <br><br>
 <br>román o putování
 <br>hlavní postava - alter ego
-<br><br>Máj<br>]]></description><link>gjb/čeština/autoři/karel-hynek-mácha.html</link><guid isPermaLink="false">GJB/Čeština/Autoři/Karel Hynek Mácha.md</guid><pubDate>Thu, 28 Nov 2024 09:30:30 GMT</pubDate></item><item><title><![CDATA[Karel Jaromír Erben]]></title><description><![CDATA[ 
+<br><br>Máj<br><br><br><a href=".?query=tag:maturita" class="tag" target="_blank" rel="noopener nofollow">#maturita</a> ]]></description><link>gjb/čeština/autoři/karel-hynek-mácha.html</link><guid isPermaLink="false">GJB/Čeština/Autoři/Karel Hynek Mácha.md</guid><pubDate>Thu, 28 Nov 2024 09:30:30 GMT</pubDate></item><item><title><![CDATA[Karel Jaromír Erben]]></title><description><![CDATA[ 
  <br>
 <br>zdroje: <a data-tooltip-position="top" aria-label="https://cs.wikipedia.org/wiki/Karel_Jarom%C3%ADr_Erben" rel="noopener nofollow" class="external-link" href="https://cs.wikipedia.org/wiki/Karel_Jarom%C3%ADr_Erben" target="_blank">wikina</a>, <a data-tooltip-position="top" aria-label="https://rozbor-dila.cz/kytice-rozbor-dila-k-maturite-4/" rel="noopener nofollow" class="external-link" href="https://rozbor-dila.cz/kytice-rozbor-dila-k-maturite-4/" target="_blank">rozbor</a>
 <br><br>
@@ -423,7 +442,13 @@ Romaneto<br>
 - Tři zlaté vlasy děda vševěda<br>
 - Dlouhý, široký a krátkozraký<br>
 - Sněhurka<br>
-Kytice z pověstí národních<br>
+Kytice z pověstí národních<br><br><br><a href=".?query=tag:maturita" class="tag" target="_blank" rel="noopener nofollow">#maturita</a> <br><br>
+<br>
+<br><br><br><br><br>
+<br>původně 12 básní v zrcadlové kompozici
+<br>poté přidána Lilie =&gt; celkem 13 básní
+<br>psal ji 20 let - byl prefekcionista
+
 ]]></description><link>gjb/čeština/autoři/karel-jaromír-erben.html</link><guid isPermaLink="false">GJB/Čeština/Autoři/Karel Jaromír Erben.md</guid><pubDate>Mon, 09 Dec 2024 17:37:31 GMT</pubDate></item><item><title><![CDATA[Kateřina Tučková]]></title><description><![CDATA[ 
  <br><br>
 <br>vyhnání Němců z Brna po 2. sv. válce
@@ -601,11 +626,11 @@ Kytice z pověstí národních<br>
 <br>scénáristka seriálu Comeback, Ulice
 <br>zabývá se mezilidskýmy vztahy
 <br><br>
-<br>Zmizet - <a data-href="Magnesia Litera" href="Magnesia Litera" class="internal-link" target="_self" rel="noopener nofollow">Magnesia Litera</a>
-<br>K moři - <a data-href="Cena Jiřího Ortena" href="Cena Jiřího Ortena" class="internal-link" target="_self" rel="noopener nofollow">Cena Jiřího Ortena</a>
+<br>Zmizet - <a data-href="Magnesia Litera" href="gjb/čeština/magnesia-litera.html" class="internal-link" target="_self" rel="noopener nofollow">Magnesia Litera</a>
+<br>K moři - <a data-href="Cena Jiřího Ortena" href="gjb/čeština/cena-jiřího-ortena.html" class="internal-link" target="_self" rel="noopener nofollow">Cena Jiřího Ortena</a>
 <br><br>
 <br><a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>
-<br><a data-href="Zmizet" href="Zmizet" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
+<br><a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
 <br>Marta děti nechce
 ]]></description><link>gjb/čeština/autoři/petra-soukupová.html</link><guid isPermaLink="false">GJB/Čeština/Autoři/Petra Soukupová.md</guid><pubDate>Sat, 12 Apr 2025 18:59:49 GMT</pubDate></item><item><title><![CDATA[Pierre Corneille]]></title><description><![CDATA[ 
  <br>
@@ -700,7 +725,15 @@ Kytice z pověstí národních<br>
 <br><a data-href="Martin Hilský" href="Martin Hilský" class="internal-link" target="_self" rel="noopener nofollow">Martin Hilský</a><br>
 - nejnovější překlady<br>
 - získal řád britského impéria<br>
-<br>
+<br><br><br>
+<br>1. nepřízvučná, 2. přízvučná slabika
+<br>není typické pro češtinu, v češtině je většinou přízvuk na 1. slabiku
+<br>většinou se dá na začátek spojka a pak je to trochej
+<br><a data-href="Karel Hynek Mácha" href="gjb/čeština/autoři/karel-hynek-mácha.html" class="internal-link" target="_self" rel="noopener nofollow">Karel Hynek Mácha</a> v <a data-href="Máj" href="gjb/čeština/knihy/máj.html" class="internal-link" target="_self" rel="noopener nofollow">Máj</a>
+<br><br>
+<br>5 jambů = 5 x nepřízvučná, 5 x přízvučná = 10 slabik celkem
+<br>psal <a data-href="William Shakespeare" href="gjb/čeština/autoři/william-shakespeare.html" class="internal-link" target="_self" rel="noopener nofollow">William Shakespeare</a>
+
 <br><br><br>
 <br>optimistické hry
 <br>historické hry - Julius Caesar, Richard III.
@@ -820,7 +853,54 @@ Kytice z pověstí národních<br>
  <br><a href=".?query=tag:maturita" class="tag" target="_blank" rel="noopener nofollow">#maturita</a><br>
 <br>vrcholné dílo
 <br><a data-tooltip-position="top" aria-label="https://rozbor-dila.cz/hamlet-kralevic-dansky-rozbor-dila/V" rel="noopener nofollow" class="external-link" href="https://rozbor-dila.cz/hamlet-kralevic-dansky-rozbor-dila/V" target="_blank">zdroj</a>
-<br><br>Renesance<br><br><br>Václav Hájek z Libočan<br><br><br><br>
+<br><br>Renesance<br><br>
+<br><a data-tooltip-position="top" aria-label="Renesance.pdf" data-href="Renesance.pdf" href="gjb/čeština/src/renesance.pdf" class="internal-link" target="_self" rel="noopener nofollow">Materiál od Saikový</a>
+<br>v popředí není Bůh, ale člověk
+<br>vzdělání i mimo církev
+<br>společnost: vznik podnikatelů - rybníky, pivovary
+<br>umělecký směr
+<br>humanismus - filozofický směr
+<br>u nás konec bitvou na Bílé Hoře 1620
+<br><br>
+<br>
+
+<br>stol
+
+
+<br>Florencie, Miláno
+<br>u nás <a data-href="Karel IV." href="Karel IV." class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Karel IV.</a> a vrcholná gotika
+<br><br>
+<br>zámořskými objevy se rozšiřuje do světa
+<br>k nám až v 15. stol.. ?
+<br><br>
+<br>začátek vědy
+<br>navázání na antiku
+<br>např. <a data-href="Leonardo da Vinci" href="gjb/čeština/autoři/leonardo-da-vinci.html" class="internal-link" target="_self" rel="noopener nofollow">Leonardo da Vinci</a>, <a data-href="Galileo Galiilei" href="Galileo Galiilei" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Galileo Galiilei</a>
+<br>zakulacení země
+<br>knihtisk <a data-href="Gutenberg" href="Gutenberg" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Gutenberg</a>
+
+<br>inkunábule - výtisky z prvních 50 let po vynálezu knihtisku
+
+
+<br><br>
+<br>inspirace v antice
+<br>nepůsobí tak moc na emoce jako gotika
+<br>staví se i církevní stavby
+<br>důraz na pohodlí
+
+<br>víc zámky než hrady
+<br>vili, kamna
+<br>sgrafity
+
+
+<br><br>
+<br><a data-href="Václav Hájek z Libočan" href="gjb/čeština/autoři/václav-hájek-z-libočan.html" class="internal-link" target="_self" rel="noopener nofollow">Václav Hájek z Libočan</a>
+<br><a data-href="Daniel Adam z Veleslavína" href="gjb/čeština/autoři/daniel-adam-z-veleslavína.html" class="internal-link" target="_self" rel="noopener nofollow">Daniel Adam z Veleslavína</a>
+<br><br>
+<br><a data-href="William Shakespeare" href="gjb/čeština/autoři/william-shakespeare.html" class="internal-link" target="_self" rel="noopener nofollow">William Shakespeare</a>
+<br><a data-href="Dante Alighieri" href="gjb/čeština/autoři/dante-alighieri.html" class="internal-link" target="_self" rel="noopener nofollow">Dante Alighieri</a>
+<br><a data-href="Francesco Petrarca" href="gjb/čeština/autoři/francesco-petrarca.html" class="internal-link" target="_self" rel="noopener nofollow">Francesco Petrarca</a>
+<br><br>Václav Hájek z Libočan<br><br><br><br>
 <br>kněz
 <br>několikrát se stěhoval
 <br>sloužil na Karlštejně a Tetíně
@@ -894,59 +974,6 @@ Francesco Petrarca<br><br><br><br>
 <br>díla se odehrávají většinou v Itálii - kolébka renesance
 <br>byly zakázány historické hry =&gt; Shakespearovi světské hry se proslavily
 <br><br><br>
-<br>Hamlet
-<br>Macbeth
-<br><br>
-<br>Mnoho povyku pro nic
-<br>Zkrocení zlé ženy
-<br><br>
-<br>Julius Caesar
-<br>Richard III
-<br><br>
-<br>.1. sonety - <a data-href="Francesco Petrarca" href="gjb/čeština/autoři/francesco-petrarca.html" class="internal-link" target="_self" rel="noopener nofollow">Francesco Petrarca</a> - <a data-tooltip-position="top" aria-label="Francesco Petrarca > Zpěvník" data-href="Francesco Petrarca#Zpěvník" href="gjb/čeština/autoři/francesco-petrarca.html#Zpěvník" class="internal-link" target="_self" rel="noopener nofollow">Dopisy Lauře</a> - 4 4 3 3
-<br>Shakespeare - 4 4 4 2
-<br>poslední 2 negují předešlých 12
-<br>využívá <a data-tooltip-position="top" aria-label="Verše > Jamb" data-href="Verše#Jamb" href="gjb/čeština/verše.html#Jamb" class="internal-link" target="_self" rel="noopener nofollow">jamb</a>
-<br>věnováno neznámému mecenáši
-<br><br>
-<br>Hamletovský sonet
-<br>výpis důvodu proč zemřít
-<br>umění je pod vládou mocných
-<br>poslední dva verše GG - láska zvítězí
-<br><br>
-<br><a data-href="Jaroslav Vrchlický" href="Jaroslav Vrchlický" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Jaroslav Vrchlický</a>
-<br><a data-href="Martin Hilský" href="Martin Hilský" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Martin Hilský</a><br>
-- nejnovější překlady<br>
-- získal řád britského impéria<br>
-<br><br><br>
-<br>1. nepřízvučná, 2. přízvučná slabika
-<br>není typické pro češtinu, v češtině je většinou přízvuk na 1. slabiku
-<br>většinou se dá na začátek spojka a pak je to trochej
-<br><a data-href="Karel Hynek Mácha" href="gjb/čeština/autoři/karel-hynek-mácha.html" class="internal-link" target="_self" rel="noopener nofollow">Karel Hynek Mácha</a> v <a data-href="Máj" href="gjb/čeština/knihy/máj.html" class="internal-link" target="_self" rel="noopener nofollow">Máj</a>
-<br><br>
-<br>5 jambů = 5 x nepřízvučná, 5 x přízvučná = 10 slabik celkem
-<br>psal <a data-href="William Shakespeare" href="gjb/čeština/autoři/william-shakespeare.html" class="internal-link" target="_self" rel="noopener nofollow">William Shakespeare</a>
-
-<br><br><br>
-<br>optimistické hry
-<br>historické hry - Julius Caesar, Richard III.
-<br>komedie -  Zkrocení zlé ženy, Sen v noci svatojánské
-<br>tragédie Romeo a Julie - obsahem spadá až do 2. období
-<br>hlavní hrdinkou je většinou energická žena
-<br><br>
-<br>pesimistické hry
-<br>tragédie - Hamlet, Macbeth
-<br>sonety - Sonet č. 66
-<br><br>
-<br>především pohádky
-<br>Zimní pohádka
-
-<br>odehrává se částečně v Čechách
-<br>podle něj je v Česku moře
-
-
-<br>Bouře - poslední Shakespearova hra
-<br><br>
 <br>nemá motto, prolog, epilog
 <br>5 dějství - několik číslovaných scén
 <br>chronologická kompozice
@@ -1035,7 +1062,147 @@ Francesco Petrarca<br><br><br><br>
 <br>královna Gertruda se omylem napije z otráveného kalicha =&gt; umře
 <br>Hamlet a Leantes se navzájem zabijí
 <br>Norský král, který na ně chtěl táhnout, se stal dánským králem, hamlet ho těsně před smrtí jmenoval dánským králem
-]]></description><link>gjb/čeština/knihy/hamlet.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Hamlet.md</guid><pubDate>Sun, 09 Feb 2025 20:54:18 GMT</pubDate></item><item><title><![CDATA[Kytice z pověstí národních]]></title><description><![CDATA[<a class="tag" href="?query=tag:maturita" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#maturita</a> 
+]]></description><link>gjb/čeština/knihy/hamlet.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Hamlet.md</guid><pubDate>Sun, 09 Feb 2025 20:54:18 GMT</pubDate></item><item><title><![CDATA[K moři]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="https://rozbor-dila.cz/k-mori-rozbor-dila-2/" rel="noopener nofollow" class="external-link" href="https://rozbor-dila.cz/k-mori-rozbor-dila-2/" target="_blank">zdroj</a>
+<br><br>Česká literatura po roce 1989<br><br><br><br>
+<br>zrušení cenzury
+<br>splynutí oficiální, samizdatové a exilové literatury
+<br>autoři se často vrací do historie - komunismus, válka (do té doby nebyly vydány nestranné knihy)
+<br><br>
+<br><a data-href="Petra Soukupová" href="gjb/čeština/autoři/petra-soukupová.html" class="internal-link" target="_self" rel="noopener nofollow">Petra Soukupová</a> - <a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>, <a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
+<br><a data-href="Karin Ledecká" href="Karin Ledecká" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Karin Ledecká</a> - <a data-href="Šikmý kostel" href="Šikmý kostel" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Šikmý kostel</a>
+<br><a data-href="Jiří Hájíček" href="gjb/čeština/autoři/jiří-hájíček.html" class="internal-link" target="_self" rel="noopener nofollow">Jiří Hájíček</a> - <a data-tooltip-position="top" aria-label="Jiří Hájíček > Rybí krev" data-href="Jiří Hájíček#Rybí krev" href="gjb/čeština/autoři/jiří-hájíček.html#Rybí_krev" class="internal-link" target="_self" rel="noopener nofollow">Rybí krev</a> - stavba Temelína
+<br><a data-href="Kateřina Tučková" href="gjb/čeština/autoři/kateřina-tučková.html" class="internal-link" target="_self" rel="noopener nofollow">Kateřina Tučková</a> - <a data-tooltip-position="top" aria-label="Kateřina Tučková > Vyhnání Gerty Schnirch" data-href="Kateřina Tučková#Vyhnání Gerty Schnirch" href="gjb/čeština/autoři/kateřina-tučková.html#Vyhnání_Gerty_Schnirch" class="internal-link" target="_self" rel="noopener nofollow">Vyhnání Gerty Schnirch</a> - vyhnání Němců po 2. sv. v.
+<br><br>Jiří Hájíček<br><br><br><br>
+<br>jižní Čechy - narodil se zde, píše o nich
+<br>vyrostl ve vesnici, která musela být zbourána kvůli stavbě Temelína
+<br><br>
+<br>příběhy lidí z vesnice, která měla být zatopena kvůli stavbě Temelína
+<br>obyvatelé vesnice měli být přestěhování do paneláku ve městě
+<br>vedou petici proti stavbě - neúspěšně
+<br>
+Kateřina Tučková<br><br><br><br>
+<br>vyhnání Němců z Brna po 2. sv. válce
+<br>Gerta se cítí být Češka, i tak má být vyhnána
+<br>podaří se jí zůstav v Čechách
+<br>lidé ji nemají rádi - Němka
+<br>nakonec umírá
+<br><br>Petra Soukupová<br><br><br><br>
+<br>scénáristka (je vidět na způsobu psaní)
+<br>scénáristka seriálu Comeback, Ulice
+<br>zabývá se mezilidskýmy vztahy
+<br><br>
+<br>Zmizet - <a data-href="Magnesia Litera" href="gjb/čeština/magnesia-litera.html" class="internal-link" target="_self" rel="noopener nofollow">Magnesia Litera</a>
+<br>K moři - <a data-href="Cena Jiřího Ortena" href="gjb/čeština/cena-jiřího-ortena.html" class="internal-link" target="_self" rel="noopener nofollow">Cena Jiřího Ortena</a>
+<br><br>
+<br><a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>
+<br><a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
+<br>Marta děti nechce
+<br><br><br>Epika<br><br>
+<br>dominantní děj - příběh
+<br>vystupují postavy
+<br>vypravěč: ich/er forma
+<br>pásmo vypravěče a pásmo postav
+<br>důležitý je čas: druhy kompozice (např. chronologická, rámcová...)
+<br><br>
+<br>kratší - <a data-href="Povídka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/povídka.html" class="internal-link" target="_self" rel="noopener nofollow">Povídka</a>
+<br>střední - <a data-href="Novela" href="gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html" class="internal-link" target="_self" rel="noopener nofollow">Novela</a>
+<br>delší - <a data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">Román</a>
+<br><a data-href="Bajka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/bajka.html" class="internal-link" target="_self" rel="noopener nofollow">Bajka</a>
+<br><br>Román<br><br>
+<br>epický útvar delšího rozsahu
+<br>oproti <a data-tooltip-position="top" aria-label="Novela" data-href="Novela" href="gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html" class="internal-link" target="_self" rel="noopener nofollow">novele</a> více postav, které se v průběhu vyvíjí
+<br>více dějových linií
+<br>vypráví ucelený příběh s úvodem, zápletkou, vyvrcholením a rozuzlením
+<br>ich/er forma
+<br>obvykle zasazen do konkrétního místa a historického období
+<br>rozdělen na kapitoly
+<br><br>
+<br>Němcová - Babička
+<br><a data-href="George Orwell" href="George Orwell" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">George Orwell</a> - <a data-href="1984" href="1984" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">1984</a>
+<br><a data-href="Karin Ledecká" href="Karin Ledecká" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Karin Ledecká</a>- <a data-href="Šikmý kostel" href="Šikmý kostel" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Šikmý kostel</a>
+<br><br><a data-href="Česká literatura po roce 1989" href="gjb/čeština/česká-literatura-po-roce-1989.html" class="internal-link" target="_self" rel="noopener nofollow">Česká literatura po roce 1989</a><br><br>
+<br>nemá motto, prolog, epilog
+<br>3 části
+
+<br>Petrovy dvě ženy - několik let
+<br>K moři - jeden týden
+<br>Zbytky životů - několik let
+
+
+<br>každá část má kapitoly - názvy kapitola podle názvů postav
+<br>typ: chronologická, paralelní (současné vyprávění několika dějových rovin) a rámcová (do úvodního příběhu se vkládá několik ucelených příběhů)
+<br>vypravěč: er forma, vševědoucí
+<br><br>
+<br>Čechy po roce 1989 - vesnice, Praha
+<br>u moře - nejspíše Chorvatsko
+<br><br>
+<br>rodinné vztahy
+<br>životní příběhy lidí
+<br><br>
+<br>nevyzpytatelný život
+<br>různé vnímání světa
+<br>láska
+<br><br>
+<br><a data-tooltip-position="top" aria-label="Vrstvy češtiny > Obecná čeština" data-href="Vrstvy češtiny#Obecná čeština" href="gjb/čeština/vrstvy-češtiny.html#Obecná_čeština" class="internal-link" target="_self" rel="noopener nofollow">obecná čeština</a>
+<br>psáno zkratkovitě, bez zbytečných detailů
+<br>rychlý spád
+<br>připomíná scénář
+<br><br>
+<br><a data-tooltip-position="top" aria-label="K moři - postavy.canvas" data-href="K moři - postavy.canvas" href="gjb/čeština/knihy/k-moři-postavy.html" class="internal-link" target="_self" rel="noopener nofollow">vztahy postav</a>
+<br><br>
+<br>chytrý, pracovitý
+<br>sociálně nepoužitelný, necitlivý
+<br>pracuje na vysoké pozici, kde se cítí líp než doma (když jedou od moře tak se do práce těší)
+<br>manžel Magdy a Kláry
+<br><br>
+<br>1. manželka Petra
+<br>matka Báry a Jíti
+<br>starostlivá
+<br>ke konci bydlí s dospělou Bárou
+<br><br>
+<br>2. manželka Petra
+<br>matka Jojo, kterou má radši než Adélu (motiv oblíbeného dítěte jako v <a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>)
+<br>adoptují Adélu
+<br><br>
+<br>dcera Magdy a Petra
+<br>krásná, společenská
+<br>po střední šla hned pracovat jako grafička
+<br>žije sama v garzonce
+<br><br>
+<br>dcera Magdy a Petra
+<br>nekrásná, nespolečenská - introvertní
+<br>psychické problémy - antidepresiva
+<br>pes Kaštan - má ho až moc ráda (zhroutí se, když se ztratí)
+<br><br>
+<br>dcera Kláry sestry
+<br>její rodiče se zabijí v autonehodě, ona jako malé dítě přežije
+<br>Klára s Petrem ji adoptují, ona o tom neví (řekne jí to až Jojo u moře)
+<br>je tlustá a stydí se za to
+<br><br>
+<br>dcera Kláry a Petra
+<br>mladší než Adéla
+<br>krásná, sobecká, rozmazlená
+<br>oblíbená dcera
+<br>po škole se živí jako modelka, pak pornoherečka v USA, drogy
+<br>na konci skončí pracovat v bistru u dálnice v USA
+<br><br><br>Několik let. Z pohledu Magdy, později Petra, Báry a Jíti.<br>
+<br>Magda chce žít v&nbsp;Praze, pryč od vesnice, proto se jí hodí Petr se kterým se odstěhuje do Prahy k&nbsp;jeho matce. Tam menší neshody s&nbsp;matkou, Petr Magdu podvádí. Magda čeká Báru to Petra změní. 
+<br>Bára je tatínkovo princezna. Chvíli to funguje. Druhé dítě Jíta je dost nemocné a Petr často není doma, podvádí Magdu s&nbsp;Klarou. Nakonec se rozvede a jde bydlet s&nbsp;Klárou. Magda chvíli dost pije, Jíťa má deprese, pomůže jí pes Kaštan a Bára. Bára je naštvaná.
+<br>Kláry sestra zemře při autonehodě, spolu s&nbsp;jejím mužem a jejich rodiči. Zbude po nich dítě, Adéla, Klára se jí ujme. Pak se jim narodí dcera Johanka (Jojo)
+<br>Bára už je dospělá a bydlí sama. To Jíťu ranilo.
+<br><br>Jeden týden. Z pohedlu všech u moře: Petr, Bára, Jíťa, Jojo, Adéla.<br>
+<br>Klara s&nbsp;Petrem a dcerami chtějí jet k&nbsp;moři, Klára dostane žloutenku, místo ní má jet Bára, ta chce, aby jela i Jíta. Holkám se moc nechce, Jíta nechce opustit Kaštana a Bára je zamilovaná do R. (není zmíněno jeho jméno) a bojí se odjet. Nakonec jedou
+<br>Petr a jeho 4 dcery jedou k&nbsp;moři. Nikdo z&nbsp;toho nemá moc radost, Jojo je rozmazlená, Adéla se chce s&nbsp;někým pořád bavit a má hlad, Jita poslouchá celou cestu písničky, Bára myslí jenom na R., Petr se bojí, aby to všechno zvládnul.
+<br>U moře si spolu moc nerozumí, moc se nebaví. Adela je spokojená, ráda se koupe. Bára je nervózní, protože ji R. neodepisuje. Jíťa se stydí koupat veřejně, takže chodí potají dál od ostatních. Petr si chce hlavně číst.
+<br>Adéla a Jojo se pohádají a Jojo prozradí Adéle, že je adoptovaná. Bára si utopí mobil. 
+<br>Adéla je po zbytek dovolené naštvaná na Petra. Báru mrzí že Petr nejeví větší zájem o to s nimi mluvit. Jojo je spokojená.
+<br>Všichni jedou rádi domů.
+<br>Holky se těšili na maminku. Adéla jí prozradí že ví, že je adoptovaná. Klára je naštvaná na Petra. 
+<br>Když Jíťa venčí Kaštana tak se zaběhne a už se nevrátí – Jíta má deprese a začne brát prášky. 
+<br>R. odejde z&nbsp;práce a Bára už ho neuvidí, je z&nbsp;toho smutná ale přenese se přes to. 
+<br><br>Několik let. Každý postava má na konec svého života jen několik stran. Spousta nových postav (manželé/manželky a děti).<br><br>Hodně pracuje, ztloustne dostane 1. infarkt, začne chovat psi a zemře při autonehodě. Na jeho pohřbu chybí jenom dcera Jíta, všichni pláčou Jojo falešně.<br><br>Začne pít a je smutná z&nbsp;Jíti pak se k&nbsp;ní přestěhuje Bára se synem a je spokojená. Musí se starat o svého otce, začíná mít sklerózu. Jde do domova pro seniory a tam také umře.<br><br>Chybí jí Petr a Jojo, Najde si nového přítele, Jiřího. Moc se nebaví s&nbsp;Adélou i když spolu bydlí. S&nbsp;přítelem si pořídí chatu, kde je často navštěvuje Bára s&nbsp;dětmi Adély děti tam zůstanou žít. Umře dřív než její přítel.<br><br>Udělá si dítě s&nbsp;mužem, kterého opustí. Její syn Richard a ona žijí u Magdy doma. Magda na tom začíná byt zle a Bára je smutná. Najde si Davida (má dítě z&nbsp;minulého manželství, Lukáše) s&nbsp;ním je spokojená. Maminka umře a ona má další dítě Petru. Bára žije dál spokojeně.<br><br>Pořídí si nového psa. Bere prášky a je vše v&nbsp;pohodě. Chce pryč z&nbsp;Prahy, chvíli studuje v&nbsp;Brně a pak ve Finsku. Tam si najde přítele, Mattiho, chvíli bydlí s&nbsp;jeho rodinou a pak sami. Mají syna Kimma. Dcera Jani má zdravotní problémy. Matty začne pít a byt hrubý na Jíťu. Nepouští jí do Čech až nakonec JÍta s dětmi od něj odejde. Zbytek Konec života ujde.<br><br>Je zdrcená Petrovou smrtí. Hodně se učí. Dokud nepozná Matěje. On je divadelník a Adela přestane se školou a jde s&nbsp;ním do divadla. Vezmou se a mají Amélii Huga. Děti nechávají Klaře a Jiřímu na chatě a sami si žijí svůj „bohémský život“<br><br>V&nbsp;17 letech se stane modelkou a odjede do Paříže. Nechce se vracet k&nbsp;Rodině, přijde jenom na Petrův pohřeb. Pak jede do USA bere drogy a alkohol, už není moc hezká. Pokusí se o sebevraždu. Konec kariéry pracuje na pumpě za pokladnou.]]></description><link>gjb/čeština/knihy/k-moři.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/K moři.md</guid><pubDate>Sun, 13 Apr 2025 12:39:15 GMT</pubDate></item><item><title><![CDATA[Kytice z pověstí národních]]></title><description><![CDATA[<a class="tag" href="?query=tag:maturita" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#maturita</a> 
  <br><a href=".?query=tag:maturita" class="tag" target="_blank" rel="noopener nofollow">#maturita</a> <br><br>
 <br>
 <br><br><br><br><br>
@@ -1043,7 +1210,44 @@ Francesco Petrarca<br><br><br><br>
 <br>poté přidána Lilie =&gt; celkem 13 básní
 <br>psal ji 20 let - byl prefekcionista
 ]]></description><link>gjb/čeština/knihy/kytice-z-pověstí-národních.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Kytice z pověstí národních.md</guid><pubDate>Thu, 09 Jan 2025 09:33:59 GMT</pubDate></item><item><title><![CDATA[Lakomec]]></title><description><![CDATA[<a class="tag" href="?query=tag:maturita" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#maturita</a> 
- <br><a href=".?query=tag:maturita" class="tag" target="_blank" rel="noopener nofollow">#maturita</a> <br><br>Klasicismus<br><br><br>Moliére<br><br><br>
+ <br><a href=".?query=tag:maturita" class="tag" target="_blank" rel="noopener nofollow">#maturita</a> <br><br>Klasicismus<br><br><br>
+<br>zdroje:
+<br><br>
+<br>ve Franci
+<br>
+
+<br>
+
+<br>
+
+<br>století
+
+
+
+
+
+
+<br>Ludvík 14. - král Slunce
+<br>slábne vliv šlechty a církve, měšťanstvo bohatne
+<br>Velká francouzská revoluce - 1789 - pád Bastily, svoboda, rovnost, bratrství
+<br>1804 - Napoleon Bonaparte, poražen u Waterloo
+<br>rozvoj divadla - komedie ve městech
+<br><br>
+<br>Stavovské divadlo - původně nazváno Nosticovo divadlo
+<br>Národní muzeum
+<br><br>
+<br>návrat k antice - vidět v architektuře
+<br>zásada 3 jednot
+<br>rozdělení na styly podle hodnoty <a data-href="Literatura podle úrovně" href="gjb/čeština/literatura-podle-úrovně.html" class="internal-link" target="_self" rel="noopener nofollow">Literatura podle úrovně</a>
+<br><br>Komedie de larte<br><br>
+<br>v Itálii
+<br>odehrává se na venkově
+<br>improvizace, herci mají jen krátkou charakteristiku role
+<br><br><br><br>
+<br><a data-href="Moliére" href="gjb/čeština/autoři/moliére.html" class="internal-link" target="_self" rel="noopener nofollow">Moliére</a> - <a data-href="Lakomec" href="gjb/čeština/knihy/lakomec.html" class="internal-link" target="_self" rel="noopener nofollow">Lakomec</a>
+<br><a data-href="Pierre Corneille" href="gjb/čeština/autoři/pierre-corneille.html" class="internal-link" target="_self" rel="noopener nofollow">Pierre Corneille</a> - Cid (středověk)
+<br>[Jean de La Fontaine] - bajky
+<br><br><br><a data-tooltip-position="top" aria-label="GJB/Čeština/Autoři/Jean de La Fontaine.md" data-href="GJB/Čeština/Autoři/Jean de La Fontaine.md" href="gjb/čeština/autoři/jean-de-la-fontaine.html" class="internal-link" target="_self" rel="noopener nofollow">Jean de La Fontaine</a><br><a data-tooltip-position="top" aria-label="GJB/Čeština/Autoři/Pierre Corneille.md" data-href="GJB/Čeština/Autoři/Pierre Corneille.md" href="gjb/čeština/autoři/pierre-corneille.html" class="internal-link" target="_self" rel="noopener nofollow">Pierre Corneille</a><br><br>Moliére<br><br><br>
 <br>Francouz, v Paříži
 <br>vl. jméno: Jean Batiste Poquelin
 <br>psal charakterové komedie a frašky - nízké drama - pseudonym, aby nedělal ostudu rodině
@@ -1073,11 +1277,7 @@ Francesco Petrarca<br><br><br><br>
 <br>po několika úpravách mohla být zase hrána
 <br><br>
 <br>člověk, který nenávidí lidi
-<br><br>
-<br>nejpopulárnější hra v jeho době (Lakomec se tehdy mockrát nehrál)
-<br>Moliére hrál hl. roli
-<br>těsně po dohrání představení zemřel na tuberkulůzu
-<br>
+<br><br><br>
 <br>předloha: <a data-tooltip-position="top" aria-label="https://rozbor-dila.cz/komedie-o-hrnci-rozbor-dila/" rel="noopener nofollow" class="external-link" href="https://rozbor-dila.cz/komedie-o-hrnci-rozbor-dila/" target="_blank">Komedie o Hrnci</a> od Plauta
 <br>typizace postav
 <br><br>
@@ -1258,6 +1458,20 @@ Romain Rolland<br><br><br>
 <br>morální úpadek za 1. sv. války
 <br>spadne na ně chrám
 <br><br>Demokratický proud 1.rep.<br><br>
+<br>důraz na humanismus, morální hodnoty
+<br>podporují demokracii, kulturní rozvoj
+<br>Pátečníci - setkávání s TGM
+<br>opak komunistické literatury
+<br>kolem Lidových novin
+<br>ve 30. letech kritika nacizmu
+<br>setkávali se jako <a data-href="Pátečníci" href="gjb/čeština/lit.-směry/pátečníci.html" class="internal-link" target="_self" rel="noopener nofollow">Pátečníci</a>
+<br><br>
+<br><a data-href="Karel Čapek" href="gjb/čeština/autoři/karel-čapek.html" class="internal-link" target="_self" rel="noopener nofollow">Karel Čapek</a>
+<br><a data-href="Josef Čapek" href="Josef Čapek" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Josef Čapek</a>
+<br><a data-href="Eduard Bass" href="gjb/čeština/autoři/eduard-bass.html" class="internal-link" target="_self" rel="noopener nofollow">Eduard Bass</a>
+<br><a data-href="Ferdinand Peroutka" href="gjb/čeština/autoři/ferdinand-peroutka.html" class="internal-link" target="_self" rel="noopener nofollow">Ferdinand Peroutka</a>
+<br><a data-href="Vladislav Vančura" href="Vladislav Vančura" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Vladislav Vančura</a>
+<br>
 U nás s tématikou 1. sv. války:<br>
 Jaroslav Hašek<br><br><br><br>
 <br>humoristický román - 4 díly
@@ -1281,11 +1495,23 @@ Jaroslav Hašek<br><br><br><br>
 <br>pásmo vypravěče a pásmo postav
 <br>důležitý je čas: druhy kompozice (např. chronologická, rámcová...)
 <br><br>
-<br>kratší - <a data-href="Povídka" href="Povídka" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Povídka</a>
+<br>kratší - <a data-href="Povídka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/povídka.html" class="internal-link" target="_self" rel="noopener nofollow">Povídka</a>
 <br>střední - <a data-href="Novela" href="gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html" class="internal-link" target="_self" rel="noopener nofollow">Novela</a>
 <br>delší - <a data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">Román</a>
 <br><a data-href="Bajka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/bajka.html" class="internal-link" target="_self" rel="noopener nofollow">Bajka</a>
-<br><br>Román<br><br><br><a data-href="Ztracená generace" href="gjb/čeština/lit.-směry/ztracená-generace.html" class="internal-link" target="_self" rel="noopener nofollow">Ztracená generace</a><br><br>
+<br><br>Román<br><br>
+<br>epický útvar delšího rozsahu
+<br>oproti <a data-tooltip-position="top" aria-label="Novela" data-href="Novela" href="gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html" class="internal-link" target="_self" rel="noopener nofollow">novele</a> více postav, které se v průběhu vyvíjí
+<br>více dějových linií
+<br>vypráví ucelený příběh s úvodem, zápletkou, vyvrcholením a rozuzlením
+<br>ich/er forma
+<br>obvykle zasazen do konkrétního místa a historického období
+<br>rozdělen na kapitoly
+<br><br>
+<br>Němcová - Babička
+<br><a data-href="George Orwell" href="George Orwell" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">George Orwell</a> - <a data-href="1984" href="1984" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">1984</a>
+<br><a data-href="Karin Ledecká" href="Karin Ledecká" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Karin Ledecká</a>- <a data-href="Šikmý kostel" href="Šikmý kostel" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Šikmý kostel</a>
+<br><br><a data-href="Ztracená generace" href="gjb/čeština/lit.-směry/ztracená-generace.html" class="internal-link" target="_self" rel="noopener nofollow">Ztracená generace</a><br><br>
 <br>Prolog:<br>
 „Tato kniha nemá být ani obžalobou, ani vyznáním. Má být toliko pokusem podat zprávu o generaci, která byla zničena válkou – i když unikla jejím granátům.“
 <br>20 kapitol
@@ -1296,7 +1522,10 @@ Jaroslav Hašek<br><br><br><br>
 <br>beznadějnost a nesmyslnost války
 <br>téma <a data-tooltip-position="top" aria-label="Ztracená generace" data-href="Ztracená generace" href="gjb/čeština/lit.-směry/ztracená-generace.html" class="internal-link" target="_self" rel="noopener nofollow">Ztracené generace</a> - i kdyby válku přežili, neměli by se kam vrátit
 <br><br>
-<br>válka, přátelství, konflikt, život
+<br>válka
+<br>přátelství
+<br>konflikt
+<br>život
 <br><br>
 <br>spisovná čeština
 <br>hodně germanizmů (Německá armáda)
@@ -1329,7 +1558,7 @@ Jaroslav Hašek<br><br><br><br>
 <br>nabádal kluky, ať se dobrovolně přihlásí do války (přihlásí)
 <br>nakonec je sám odveden a Pavel se mu směje (potká ho v kasárnách)
 <br>Pavel mu přisuzuje vinu svých kamarádů
-<br><br>Kniha vypráví příběh Paula Bäumera, který je spolu se svými kamarády Müllerem, Kroppem, Kemmerichem a Leerem po maturitě donucen profesorem Kantorkem jít do armády jako dobrovolníci.<br><br>Nejprve prošli tvrdým 10denním výcvikem, plným šikany od desátníka Himmelstosse. Čistili místnost kartáčkem na zuby, leštili boty, přestýlali postele. Díky tomuto výcviku se však z Pavla stává člověk bez lítosti a bez důvěry, ale on sám dobře ví, že by bez tohoto na frontě nevydržel ani minutu. Po výcviku nastupují všichni rovnou na frontu. Začátkem knihy je raněn jejich kamarád Kemmerich, který dostal kulku do stehna. Nohu mu musí amputovat. Když za ním přichází kamarádi do nemocnice, vtipkují s&nbsp;ním a dodávají mu optimismu. Müller si chce vzít jeho boty ne proto, že by byl bezcitný, ale proto, že kdyby Kammerich umřel, vezme si je někdo z&nbsp;nemocnice a on je opravdu potřebuje.<br><br>Po tomto boji utrpěla jejich rota velké ztráty a byla doplněna o rekruty, mezi nimiž byl i nenáviděný desátník Himmelstoss, kterému se všichni už dlouho chtěli pomstít. S&nbsp;ním přijíždí i nováčci, kterým je sotva 17 let. S nimi mají však jen samé starosti. Vojáci přežívají v&nbsp;zákopech díky neuvěřitelnému&nbsp;množství drobných náhod. Následující den museli dopředu, opravovat zákopy. Muži jsou v neustálém ohrožení a Pavlovi kamarádi jeden po druhém umírají.<br><br>Pavel dostane dovolenou a jede za rodinou. Dozvídá se, že jeho maminka umírá na rakovinu. Pavel zatajuje před rodiči všechny hrůzy, které zažil a viděl, a tvrdí, že válka není nic hrozného. Neříká jim nic, protože někdo, kdo válku sám nezažil, ji&nbsp;nemůže&nbsp;pochopit. Setkává se s lidmi, kteří mu vůbec nerozumí, a chtějí slyšet o hrdinských činech a skutcích ve jménu vlasti. Pavel je znechucen, ví, že už by se mu nikdy nemohlo podařit znovu se zařadit do běžného života. Navštěvuje matku zesnulého Kemmericha a oznamuje jí, že její syn zemřel.<br><br>Po dovolené je vyslán na průzkum terénu. Málem je dopaden Francouzy. Musí být dlouhou dobu schovaný v&nbsp;trychtýři. Zabíjí tam Francouze, protože když ho nezabije, zabije Francouz jeho. Pak svého činu velmi lituje, protože muž má ženu a dceru. Na muže Pavlovi pomůže zapomenout Kropp a Ktazca.<br><br>Pavel a Kropp jsou zraněni a pobývají v katolické nemocnici. Kroppovi amputují nohu, chce se zabít, Pavel mu to rozmlouvá. Podmínky v nemocnci jsou hrozivé. Když se uzdraví, vrací se na frontu, kde zjistí, že Leer a Müller jsou mrtví, Deterding utekl a prý ho chytili, ale nikdo už ho nikdy neviděl. <br><br>Pavlův nejlepší přítel Katczinski je zraněn a Pavel s&nbsp;ním utíká přes bojiště k záchranné jednotce, když doběhne, zdravotník mu sdělí, že běžel zbytečně - Ktacza chytil střep granátu do hlavy a umírá. Pavel zůstává na frontě sám, bez svých kamarádů. Na konci války umírá i Pavel právě v den, který byl tak tichý, že vrchní velitelství napsalo do zprávy: Na západní frontě klid. ]]></description><link>gjb/čeština/knihy/na-západní-frontě-klid.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Na západní frontě klid.md</guid><pubDate>Sat, 12 Apr 2025 18:52:14 GMT</pubDate></item><item><title><![CDATA[R.U.R.]]></title><description><![CDATA[ 
+<br><br>Kniha vypráví příběh Paula Bäumera, který je spolu se svými kamarády Müllerem, Kroppem, Kemmerichem a Leerem po maturitě donucen profesorem Kantorkem jít do armády jako dobrovolníci.<br><br>Nejprve prošli tvrdým 10denním výcvikem, plným šikany od desátníka Himmelstosse. Čistili místnost kartáčkem na zuby, leštili boty, přestýlali postele. Díky tomuto výcviku se však z Pavla stává člověk bez lítosti a bez důvěry, ale on sám dobře ví, že by bez tohoto na frontě nevydržel ani minutu. Po výcviku nastupují všichni rovnou na frontu. Začátkem knihy je raněn jejich kamarád Kemmerich, který dostal kulku do stehna. Nohu mu musí amputovat. Když za ním přichází kamarádi do nemocnice, vtipkují s&nbsp;ním a dodávají mu optimismu. Müller si chce vzít jeho boty ne proto, že by byl bezcitný, ale proto, že kdyby Kammerich umřel, vezme si je někdo z&nbsp;nemocnice a on je opravdu potřebuje.<br><br>Po tomto boji utrpěla jejich rota velké ztráty a byla doplněna o rekruty, mezi nimiž byl i nenáviděný desátník Himmelstoss, kterému se všichni už dlouho chtěli pomstít. S&nbsp;ním přijíždí i nováčci, kterým je sotva 17 let. S nimi mají však jen samé starosti. Vojáci přežívají v&nbsp;zákopech díky neuvěřitelnému&nbsp;množství drobných náhod. Následující den museli dopředu, opravovat zákopy. Muži jsou v neustálém ohrožení a Pavlovi kamarádi jeden po druhém umírají.<br><br>Pavel dostane dovolenou a jede za rodinou. Dozvídá se, že jeho maminka umírá na rakovinu. Pavel zatajuje před rodiči všechny hrůzy, které zažil a viděl, a tvrdí, že válka není nic hrozného. Neříká jim nic, protože někdo, kdo válku sám nezažil, ji&nbsp;nemůže&nbsp;pochopit. Setkává se s lidmi, kteří mu vůbec nerozumí, a chtějí slyšet o hrdinských činech a skutcích ve jménu vlasti. Pavel je znechucen, ví, že už by se mu nikdy nemohlo podařit znovu se zařadit do běžného života. Navštěvuje matku zesnulého Kemmericha a oznamuje jí, že její syn zemřel.<br><br>Po dovolené je vyslán na průzkum terénu. Málem je dopaden Francouzy. Musí být dlouhou dobu schovaný v&nbsp;trychtýři. Zabíjí tam Francouze, protože když ho nezabije, zabije Francouz jeho. Pak svého činu velmi lituje, protože muž má ženu a dceru. Na muže Pavlovi pomůže zapomenout Kropp a Ktazca.<br><br>Pavel a Kropp jsou zraněni a pobývají v katolické nemocnici. Kroppovi amputují nohu, chce se zabít, Pavel mu to rozmlouvá. Podmínky v nemocnci jsou hrozivé. Když se uzdraví, vrací se na frontu, kde zjistí, že Leer a Müller jsou mrtví, Deterding utekl a prý ho chytili, ale nikdo už ho nikdy neviděl. <br><br>Pavlův nejlepší přítel Katczinski je zraněn a Pavel s&nbsp;ním utíká přes bojiště k záchranné jednotce, když doběhne, zdravotník mu sdělí, že běžel zbytečně - Ktacza chytil střep granátu do hlavy a umírá. Pavel zůstává na frontě sám, bez svých kamarádů. Na konci války umírá i Pavel právě v den, který byl tak tichý, že vrchní velitelství napsalo do zprávy: Na západní frontě klid. ]]></description><link>gjb/čeština/knihy/na-západní-frontě-klid.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Na západní frontě klid.md</guid><pubDate>Sun, 13 Apr 2025 12:35:52 GMT</pubDate></item><item><title><![CDATA[R.U.R.]]></title><description><![CDATA[ 
  <br>
 <br><a data-tooltip-position="top" aria-label="https://rozbor-dila.cz" rel="noopener nofollow" class="external-link" href="https://rozbor-dila.cz" target="_blank">zdroj</a>
 <br><br>Sci-fi<br><br><br>
@@ -1406,7 +1635,29 @@ Romaneto<br><br>
 <br>film v 80. letech
 <br><br><br>Existencialismus<br><br>
 <br>u Čapka se vyskytuje 
-<br><br>Symbolismus<br><br><br>Karel Čapek<br><br><br>
+<br><br>Symbolismus<br><br><br>
+<br>zdroje: <a data-tooltip-position="top" aria-label="https://cs.wikipedia.org/wiki/Symbolismus" rel="noopener nofollow" class="external-link" href="https://cs.wikipedia.org/wiki/Symbolismus" target="_blank">Wikina</a>
+<br><br>
+<br>ve Franci
+<br>reakce na <a data-href="Realismus" href="gjb/čeština/lit.-směry/realismus.html" class="internal-link" target="_self" rel="noopener nofollow">Realismus</a> a <a data-href="Naturalismus" href="gjb/čeština/lit.-směry/naturalismus.html" class="internal-link" target="_self" rel="noopener nofollow">Naturalismus</a>
+<br>navazuje na <a data-href="Romantismus" href="gjb/čeština/lit.-směry/romantismus.html" class="internal-link" target="_self" rel="noopener nofollow">Romantismus</a>
+<br>v realismu snaha zaznamenat a popsat vše do detailu tak jak je
+<br>v symbolismu snaha popisovat abstraktní děje, které nelze racionálně popsat
+<br><br>
+<br>prostředek mezi abstrakcí a skutečnem
+<br>jeden symbol adaptovat několika způsoby =&gt; opak oproti racionalismu
+<br><br>
+<br>vášeň touha, zkáza
+<br><br>
+<br>hledání pravdy, zmatenost, vnitřní boj
+<br><br><br><br>
+<br><a data-href="Otakar Březina" href="gjb/čeština/autoři/otakar-březina.html" class="internal-link" target="_self" rel="noopener nofollow">Otakar Březina</a>
+<br><a data-href="Antonín Sova" href="gjb/čeština/autoři/antonín-sova.html" class="internal-link" target="_self" rel="noopener nofollow">Antonín Sova</a>
+<br><br>
+<br><a data-href="Paul Verlaine" href="gjb/čeština/autoři/paul-verlaine.html" class="internal-link" target="_self" rel="noopener nofollow">Paul Verlaine</a>
+<br><a data-href="Arthur Rimbaud" href="gjb/čeština/autoři/arthur-rimbaud.html" class="internal-link" target="_self" rel="noopener nofollow">Arthur Rimbaud</a>
+<br><a data-href="Charles Baudelaire" href="Charles Baudelaire" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Charles Baudelaire</a>
+<br><br><br><br><br><br><br>Karel Čapek<br><br><br>
 <br><a data-tooltip-position="top" aria-label="https://www.cesky-jazyk.cz/zivotopisy/karel-capek.html" rel="noopener nofollow" class="external-link" href="https://www.cesky-jazyk.cz/zivotopisy/karel-capek.html" target="_blank">zdroj</a>
 <br><br>"Hledání pravdy je víc než pravda sama"<br><br>
 <br>otec lékař v Malých Svatoňovicích - po Mnichově napsal článek, proč se zabrali Malé Svatoňovice, když tam nežijí nijací Němci
@@ -1419,106 +1670,7 @@ Romaneto<br><br>
 <br>srůstání kostí
 <br>nebyl ve 1. sv. válce
 <br>nemohl řídit
-<br><br>
-<br>velmi zasažen Mnichovskou zradu - bral to především jako zradu Anglie
-<br>několikrát mu nabídli exil do Švýcarska - odmítl, bral by to jako prohru
-<br><br>
-<br>svatební dar k doživotnímu užívání
-<br>povodeň 1938 =&gt; nachlazení při odklízení trosek =&gt; smrt
-<br><br>
-<br>několikrát nominován
-<br>nedostal ji, kvůli jeho antinacistickým názorům
-<br>udělovali NC nechtěli zbytečně naštvat Hitlera
-<br><br>Pátečníci<br><br>
-<br>okruh intelektuálů kolem <a data-href="Karel Čapek" href="gjb/čeština/autoři/karel-čapek.html" class="internal-link" target="_self" rel="noopener nofollow">Karel Čapek</a> a <a data-href="Josef Čapek" href="Josef Čapek" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Josef Čapek</a>
-<br>scházeli se v pátek ve dvouvile bratří Čapků na Vinohradech
-<br><br>
-<br><a data-href="Karel Čapek" href="gjb/čeština/autoři/karel-čapek.html" class="internal-link" target="_self" rel="noopener nofollow">Karel Čapek</a>
-<br><a data-href="Josef Čapek" href="Josef Čapek" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Josef Čapek</a>
-<br><br>
-<br><a data-href="T. G. Masaryk" href="T. G. Masaryk" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">T. G. Masaryk</a>
-<br><a data-href="Edvard Beneš" href="Edvard Beneš" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Edvard Beneš</a>
-<br><a data-href="Jan Masaryk" href="Jan Masaryk" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Jan Masaryk</a>
-<br><br>
-<br><a data-href="Ferdinand Peroutka" href="gjb/čeština/autoři/ferdinand-peroutka.html" class="internal-link" target="_self" rel="noopener nofollow">Ferdinand Peroutka</a>
-<br><a data-href="Eduard Bass" href="gjb/čeština/autoři/eduard-bass.html" class="internal-link" target="_self" rel="noopener nofollow">Eduard Bass</a>
-<br><a data-href="Karel Poláček" href="Karel Poláček" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Karel Poláček</a>
 <br><br><br>
-<br>stanou se novinami Československé národně demokratické strany - již nejsou nezávislé
-<br>zdáli se mu politicky směřované proti TGM
-<br>bratr Josef donucen odejít =&gt; Karel odešel s ním do Lidových novin
-<br><br>
-<br>nejdelší působení
-<br><br>
-<br>podobné jako fejeton, ale kratší (jen jeden novinový sloupek WOW)
-<br>kurzívou na okraji novin
-<br>vtipný námět, často ironie
-<br>reakce na aktuální téma
-<br><br>
-<br>scházeli se v pátek ve vile bratří Čapků na Vinohradech
-<br>člen TGM, filozofové, redakce Lidových Novin - <a data-href="Eduard Bass" href="gjb/čeština/autoři/eduard-bass.html" class="internal-link" target="_self" rel="noopener nofollow">Eduard Bass</a>, <a data-href="Ferdinand Peroutka" href="gjb/čeština/autoři/ferdinand-peroutka.html" class="internal-link" target="_self" rel="noopener nofollow">Ferdinand Peroutka</a>
-<br>vyznávali demokracii a pragmatismus
-<br>časopis Přítomnost
-<br><br><br>
-<br>zakladatel a předseda
-<br>"ti, co vládnou perem"
-<br><br>
-<br>překladatel z francouzštiny
-<br><br><br>
-<br>Loupežník - první drama, mezigenerační vztahy
-<br><br>
-<br>varování před zneužitím vynálezů
-<br>vynálezce by měl nést odpovědnost za vynález
-<br><br>
-<br>viz <a data-href="R.U.R." href="gjb/čeština/knihy/r.u.r..html" class="internal-link" target="_self" rel="noopener nofollow">R.U.R.</a>
-<br><br>
-<br>barová tanečnice Emilia Marty vypije v době Rudolfa II. lektvar nesmrtelnosti
-<br>žije 300 let
-<br>nic ji netěší
-<br>nejdříve se (jako každý člověk) smrti bojí
-<br>pak se na ni těší
-<br>myšlenka: život je krásný, protože je omezený
-<br><br>
-<br>Prokop vynalezne třaskavinu, která by mohla zničit celý svět
-<br>myšlenka: ochrana díla proti zneužití
-<br><br>
-<br>Marek vynalezne motor, který běží na jakékoliv palivo
-<br>z motoru se ale vyzařuje záření - absolutno
-<br>lidé žijí v blahobytu, poté ale začnou mezi sebou válčit
-<br><br>
-<br>Alegorické drama
-<br>tulák prochází světem a jednotlivé druhy hmyzu přirovnává k lidem
-<br>každý hmyz je nějaká lidská vlastnost, nebo uspořádání společnosti (mravenci)
-<br><br>
-<br>povídky a cestopisy
-<br><br>
-<br>soubor povídek
-<br><br>
-<br>vycházeli postupně v Lidových novinách
-<br><br><br>
-<br>noetické období - zkoumá lidské poznání, jeho limity
-<br><br>
-<br>z trosek letadla se vytáhne tělo pilota
-<br>3 svědci - zdravotní sestra, básník, jasnovidec - diskutují o osudu pilota
-<br>do své představy o životě pilota promítají kus sebe
-<br><br>
-<br>boj proti fašismu
-<br><br>
-<br>román
-<br>mloci představují nacisty
-<br>prvky <a data-href="Existencialismus" href="gjb/čeština/lit.-směry/existencialismus.html" class="internal-link" target="_self" rel="noopener nofollow">Existencialismus</a>
-<br><br>
-<br>viz <a data-href="Bílá nemoc" href="gjb/čeština/knihy/bílá-nemoc.html" class="internal-link" target="_self" rel="noopener nofollow">Bílá nemoc</a>
-<br><br>
-<br>matka nejprve zakazuje svým synům, aby narukovali
-<br>nakonec je sama vyzývá k obraně země
-<br><br><br>
-<br>dětská fotografická knížka
-<br>chtěl ji dát Vančurovi, ten mu ji ale po týdnu vrátil
-<br><br>
-<br>podání známého příběhu novým výkladem
-<br>např. biblická témata, pověsti
-<br><br>
 <br>motto, prolog, epilog  existují?
 <br>kapitoly - kolik, jak označené (číslované, pojmenované...)
 <br>typy:
@@ -1661,24 +1813,496 @@ V&nbsp;tu chvíli přijde správa o příjezdu opravdového inspektora.]]></desc
 <br>převzatý námět z italské středověké kroniky
 <br>1 - 3 dějství - komedie
 <br>4 - komedie
-]]></description><link>gjb/čeština/knihy/romeo-a-julie.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Romeo a Julie.md</guid><pubDate>Thu, 16 Jan 2025 08:14:53 GMT</pubDate></item><item><title><![CDATA[Bajka]]></title><description><![CDATA[ 
+]]></description><link>gjb/čeština/knihy/romeo-a-julie.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Romeo a Julie.md</guid><pubDate>Thu, 16 Jan 2025 08:14:53 GMT</pubDate></item><item><title><![CDATA[Zmizet]]></title><description><![CDATA[ 
+ <br>
+<br><a data-tooltip-position="top" aria-label="https://rozbor-dila.cz/k-mori-rozbor-dila-2/" rel="noopener nofollow" class="external-link" href="https://rozbor-dila.cz/k-mori-rozbor-dila-2/" target="_blank">zdroj</a>
+<br><br>Česká literatura po roce 1989<br><br><br><br>
+<br>zrušení cenzury
+<br>splynutí oficiální, samizdatové a exilové literatury
+<br>autoři se často vrací do historie - komunismus, válka (do té doby nebyly vydány nestranné knihy)
+<br><br>
+<br><a data-href="Petra Soukupová" href="gjb/čeština/autoři/petra-soukupová.html" class="internal-link" target="_self" rel="noopener nofollow">Petra Soukupová</a> - <a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>, <a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
+<br><a data-href="Karin Ledecká" href="Karin Ledecká" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Karin Ledecká</a> - <a data-href="Šikmý kostel" href="Šikmý kostel" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Šikmý kostel</a>
+<br><a data-href="Jiří Hájíček" href="gjb/čeština/autoři/jiří-hájíček.html" class="internal-link" target="_self" rel="noopener nofollow">Jiří Hájíček</a> - <a data-tooltip-position="top" aria-label="Jiří Hájíček > Rybí krev" data-href="Jiří Hájíček#Rybí krev" href="gjb/čeština/autoři/jiří-hájíček.html#Rybí_krev" class="internal-link" target="_self" rel="noopener nofollow">Rybí krev</a> - stavba Temelína
+<br><a data-href="Kateřina Tučková" href="gjb/čeština/autoři/kateřina-tučková.html" class="internal-link" target="_self" rel="noopener nofollow">Kateřina Tučková</a> - <a data-tooltip-position="top" aria-label="Kateřina Tučková > Vyhnání Gerty Schnirch" data-href="Kateřina Tučková#Vyhnání Gerty Schnirch" href="gjb/čeština/autoři/kateřina-tučková.html#Vyhnání_Gerty_Schnirch" class="internal-link" target="_self" rel="noopener nofollow">Vyhnání Gerty Schnirch</a> - vyhnání Němců po 2. sv. v.
+<br><br>Jiří Hájíček<br><br><br><br>
+<br>jižní Čechy - narodil se zde, píše o nich
+<br>vyrostl ve vesnici, která musela být zbourána kvůli stavbě Temelína
+<br><br>
+<br>příběhy lidí z vesnice, která měla být zatopena kvůli stavbě Temelína
+<br>obyvatelé vesnice měli být přestěhování do paneláku ve městě
+<br>vedou petici proti stavbě - neúspěšně
+<br>
+Kateřina Tučková<br><br><br><br>
+<br>vyhnání Němců z Brna po 2. sv. válce
+<br>Gerta se cítí být Češka, i tak má být vyhnána
+<br>podaří se jí zůstav v Čechách
+<br>lidé ji nemají rádi - Němka
+<br>nakonec umírá
+<br><br>Petra Soukupová<br><br><br><br>
+<br>scénáristka (je vidět na způsobu psaní)
+<br>scénáristka seriálu Comeback, Ulice
+<br>zabývá se mezilidskýmy vztahy
+<br><br>
+<br>Zmizet - <a data-href="Magnesia Litera" href="gjb/čeština/magnesia-litera.html" class="internal-link" target="_self" rel="noopener nofollow">Magnesia Litera</a>
+<br>K moři - <a data-href="Cena Jiřího Ortena" href="gjb/čeština/cena-jiřího-ortena.html" class="internal-link" target="_self" rel="noopener nofollow">Cena Jiřího Ortena</a>
+<br><br>
+<br><a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>
+<br><a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
+<br>Marta děti nechce
+<br><br><br>Epika<br><br>
+<br>dominantní děj - příběh
+<br>vystupují postavy
+<br>vypravěč: ich/er forma
+<br>pásmo vypravěče a pásmo postav
+<br>důležitý je čas: druhy kompozice (např. chronologická, rámcová...)
+<br><br>
+<br>kratší - <a data-href="Povídka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/povídka.html" class="internal-link" target="_self" rel="noopener nofollow">Povídka</a>
+<br>střední - <a data-href="Novela" href="gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html" class="internal-link" target="_self" rel="noopener nofollow">Novela</a>
+<br>delší - <a data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">Román</a>
+<br><a data-href="Bajka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/bajka.html" class="internal-link" target="_self" rel="noopener nofollow">Bajka</a>
+<br><br>sbírka = víc nebo rovno 3<br>
+Povídka<br><br>
+<br>epický útvar krátkého rozsahu
+<br>oproti <a data-tooltip-position="top" aria-label="Román" data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">románu</a> méně postav, které se v průběhu nevyvíjí
+<br>pouze jedna dějová linie
+<br>jednoduchý spád - zaměřuje se jen na jednu věc
+<br>ich/er forma
+<br><br>
+<br><a data-href="Petra Soukupová" href="gjb/čeština/autoři/petra-soukupová.html" class="internal-link" target="_self" rel="noopener nofollow">Petra Soukupová</a> - <a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
+<br><a data-href="Franz Kafka" href="Franz Kafka" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Franz Kafka</a> - obecně povídky
+<br><a data-href="Ota Pavel" href="Ota Pavel" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Ota Pavel</a> - <a data-href="Smrt krásných srnců" href="Smrt krásných srnců" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Smrt krásných srnců</a> soubor povídek
+<br><br><a data-href="Česká literatura po roce 1989" href="gjb/čeština/česká-literatura-po-roce-1989.html" class="internal-link" target="_self" rel="noopener nofollow">Česká literatura po roce 1989</a><br><br>
+<br>nemá motto, prolog, epilog
+<br>3 povídky
+
+<br>Zmizel
+<br>Na krátko
+<br>Věneček
+
+
+<br>typ: chronologická, paralelní (současné vyprávění několika dějových rovin) a rámcová (do úvodního příběhu se vkládá několik ucelených příběhů)
+<br>vypravěč: většinou ich forma , místy doplňuje vypravěč detaily er forma
+<br><br>
+<br>Zmizel - Hradec Králové a okolí (Dlouhá Louka), skokově Praha a další velká města (hledání matky)
+<br>Na krátko - Praha
+<br>Věneček - Žďár nad Sázavou, Praha
+
+<br>v dětství 80. léta, v dospělosti také 0. léta
+
+
+<br><br>
+<br>mezilidské vztahy v rodině i mimo + jejich narušení
+<br>vnímání světa z perspektivy dítěte
+<br>proměnlivost života
+<br>boj o lásku a uznání
+<br><br>
+<br>alkohol (hlavně v novele Zmizel)
+<br>boj o uznání (hlavně v novele Věneček, dále v Na krátko)
+<br>(zanedbaná) výchova dětí (hlavně v novele Na krátko)
+<br><br>
+<br><a data-tooltip-position="top" aria-label="Vrstvy češtiny > Obecná čeština" data-href="Vrstvy češtiny#Obecná čeština" href="gjb/čeština/vrstvy-češtiny.html#Obecná_čeština" class="internal-link" target="_self" rel="noopener nofollow">obecná čeština</a>
+<br>psáno zkratkovitě, bez zbytečných detailů
+<br>rychlý spád
+<br><br><br><br>
+<br>nemá rád sport, protože je v něm nešikovný
+<br>rád maluje, vaří, peče (kočku doma nemá)
+<br>má rád přírodu, samotář
+<br>přijde o nohu
+<br>matky oblíbenec
+<br>papoušek Pirát
+<br><br>
+<br>zmizí
+<br>hezký
+<br>arogantní
+<br>sportovně nadaný
+<br>táty oblíbenec
+<br>Jakuba trápí, straší, spoustu věcí mu závidí
+<br>bere Jakuba spíše jako přítěž, nemá s ním pevný vztah
+<br>závidí Jakubovi, že má víc matčiny lásky než on
+<br><br>
+<br>před Martinovým zmizením normální matka
+
+<br>snaží se bránit mladší dítě (Jakuba) před Martinovým popichováním
+
+<br>chce brát obě děti stejně, ale okolnosti moc nedovolují (Martinovo chování k Jakubovi a otcovo oblíbení Martina)
+
+
+
+
+<br>po zmizení Martina se stává psychicky narušenou
+
+<br>není schopna vést normální život
+
+
+<br>u všech věcí, které dělá, přemýšlí, co napíše k další fotce s Martinem
+
+<br>vidí svět jen skrze fotky
+
+
+<br><br>
+<br>trenér orienťáku
+<br>závislý na alkoholu
+<br>má v oblibě Martina, protože mu atletika jde
+
+<br>chce, aby to ve sportu Martin dotáhl na profesionální dráhu (do svých snů nutí svého syna)
+
+
+<br>po jeho zmizení se jeho problémy s alkoholem ještě zhorší
+
+<br>není schopný usnout bez alkoholu
+
+
+<br>Jakuba dost přehlíží, protože v něm vidí sportovního nešiku
+
+<br>jeho malování a "motání se v kuchyni" považuje za málo mužné
+
+
+<br><br>
+<br>Kuba k ní jezdí na prázdniny na vesnici
+<br>jediný člen rodiny, který má alespoň trochu rozumu
+<br>snaží se "krotit" matku, aby přestala šílet po zmizení Martina
+<br><br>
+<br>spolužačka Jakuba
+<br>Kuba by s ní chtěl být víc než spolužák
+<br>po návštěvě u nich doma ji sbalí Martin (hlavně aby Jakub záviděl)
+
+<br>pro Jakuba šok, konec přátelství
+
+
+<br><br>Patnáctiletý Jakub v první kapitole odjíždí do Plzně, kde nastupuje na průmyslovou uměleckou školu. Ve vlaku vzpomíná na své dětství. Na všechny rány, které jejich rodina zažila, vzpomíná, jak se postupem času rodina rozpadala, až se stala naprosto nefunkční.
+(V dětství (cca 6 let) Jakub není moc oblíbený ani ve škole ani běžců, se kterými jezdí na víkendové závody a tréninkové výpravy pořádané jeho otcem. Běhání ho moc nebaví a ani mu nejde k otcově nelibosti. Má však rád přírodu, ve které běhá. Mohl by v jejím prostředí trávit věčnost, zkoumat její chod i konkrétní jedince, hlavně zvířata a brouky. **Například by vydržel hodiny pozorovat mraveniště.**
+Jakub se raději než sportu věnuje kreslení a malování a pomáhá matce s vařením a s pečením na Vánoce. Stále by si přál nějaké domácího mazlíčka.)
+
+Do školy a ze školy mají chlapci chodit společně, Martin má dávat pozor na mladšího Jakuba. Tajně to nedodržují, vždy za rohem už si jde každý po svých.
+Jednou po škole vyprovokujou Jakubovi spolužáci starší kluky ze školy a začnou před nimi utíkat. Jakub díky běžeckým tréninkům běží jako první. Z jedné z postranních ulic vyjede auto a Jakuba si nevšimne a on zase jeho. Martin z toho má samozřejmě průšvih (hlavně u matky), protože ho nedoprovázel.
+Jakub se probere až v nemocnici, kde mu uplakaná matka opatrně sděluje, že mu amputovali nohu a bude nosit protézu. Je to zdrcující zpráva, ale hlavně pro jeho okolí. Jeho otec se mu ještě vzdálí, protože teď už vůbec nemůže sporotovat Jakubovi nakonec nevadí, že nemusí sportovat, jen by si odpustil ty všechny soucitné a zvědavé pohledy, když jde po ulici. Tím si vypěstuje averzi vůči chození ven. Rozhodně to ale vztahy v rodině závratně nezmění, i když je to poznamená.
+Krátce po návratu domů dostává Jakub svého vysněného mazlíčka - papouška. Pojmenuje ho Pirát. Martinovi se vůbec nelíbí nový obyvatel jejich společného pokoje. Nejvíc zuří, když Jakub Piráta nechá lítat po pokoji a on kálí na nejen Martinovy věci.
+Někdy tou dobou jednou v noci Jakub potřebuje na záchod, jenže spí na horní části palandy a potřebuje pomoct při slézání. Četné pokusy volání Martina nevzbudí, spíše nereaguje (dost možná menší pomsta za průšvih s doprovázením a za Piráta). Jakub se pokouší slézt sám a padá na podlahu, kde se pomočí. Martin se mu vysměje, ale vzápět, si musí vyměnit místa na palandě. Dříve chtěl spát nahoře Martin, ale v tuto chvíli se to obrací a chce spát pro změnu dole, matka ho ale přinutí se vystřídat.
+Další školní rok Jakub nastupuje do nižší třídy kvůli nezvládnutým dorovnávacím zkouškám, kde na začátku velmi vzbuzuje pozornost, což se mu protiví. Nenajde si žádné kamarády, sedí sám a snaží se být, co nejrychleji ze školy doma. Do i ze školy ho doprovází matka.
+Po nějaké době přijde do třídy nová spolužačka a k Jakubově nelibosti si sedne k němu. Moc si jí nevšímá a většinou si kreslí do sešitu, hlavně papoušky. Marta si toho všimne a začnou se (později nejen o tom) bavit. Marta chce vidět Piráta, ale Jakub jí nechce pozvat domů kvůli bratrovi. 
+Jednou, když by Martin neměl být doma, nakonec Marta s Jakubem dorazí k nim domů. Ovšem Martin se tam také zjeví. Omotá si Martu kolem prstu tak rychle, že jí Jakub Pirátem vůbec neohromí. Jakub Martina z celého srdce nenávidí a s Martou se přestane bavit. To je definitivní tečka za vztahem obou bratrů.
+
+Jednou v zimě o pár let později Martin odejde ven, naznačí škodolibě Jakubovi, že jde s Martou ven (rodičům řekl, že jde bruslit s kamarády). Jakub si v duchu přeje, aby Martin zmizel. Vypadá to jako normální odpoledne. Oba rodiče se vrátí domů, ale Martin stále nikde. Začnou obvolávat rodiče Martinových kamarádů a později se obrátí na policii, zatímco Jakub brzy usíná a realitu si uvědomí až ráno. Vyčítá si, že zmizel kvůli jeho přání.
+Jakub prozradí, jaké měl Martin plány (s Martou). Rodiče jdou navštívit dům Marty, kde matka zoufale stropí scénu (včetně menšího lomcování Martou před její vlastní matkou). Jsou tak nějak vykázáni.
+Rodiče roznášejí letáky i s telefoním číslem na ně (nedbají na rady policie). Pak v následujících 14 dnech obdržují telefonáty, kde dostávají nesmyslné typy, kde byl Martin zahlédnut. Matka nelení, vytváří si mapu, kudy Martin musel jít/jet a vydává se za ním - nejčastěji do krajských měst po celé republice. V Praze už má po několikáté návštěvě vyhlídlou ubytovnu s milými Ukrajinci, kteří jí chtějí pomoct.
+Jakub zůstává doma sám s otcem. Ten nachází únik v alkoholu. Tráví večery v hospodě, kde mu jeho "kamarádi" mluví do života, co by mohl a jak ve svém životě zlepšit (syn, sport, tchýně).
+Před Vánoci přijede babička a začne se trochu starat o domácnost a o Jakuba. Občas se nepohodne s otcem, ale nejsou to nijak ostré hádky???. Připravují se na Vánoce, jako by bylo vše normální. Napečou cukroví, ozdobí stromeček... Čekají a bojí se, jestli se matka alespoň na Vánoce vrátí domů, nemají od ní zpráv.
+Matka se před Štědrým dnem opravdu vrací domů, Jakuba si nevšímá jako dřív, obecně se změnila. Vyčítá si, že se Martinovi nevěnovala tolik jako Jakubovi, když on byl ale menší a potřeboval ochránit... Jakubovi zůstal opět jen Pirát.
+Po Vánocích matka opět odjíždí. Před odchodem se pohádá s babičkou, která jí racionálně káže o tom, že má ještě 2. syna, o kterého by se měla starat. Když matka odjede, babička usoudí, že ani otec není schopen se o Jakuba starat, takže vezme Jakuba k sobě domů na vesnici Dlouhá Louka. Plánuje, že Jakub nastoupí do místní školy a zatím bude na stálo u ní.
+Otec pod vlivem hospodských štamgastů začne trénovat chlapecký fotbal a dá se jakž takž do kupy. Přiveze si Jakuba od babičky zpět domů, ta uzná, že už je na tom otec lépe. S Jakubem otec nafotí film a společně ho vyvolají. Chce, aby Jakub začal opět se sportem, tak otec hledá a Jakub zkouší různé sporty i přes svůj handicap, například plavání???, judo??? atd.
+Později obdrží telefonát z nemocnice, že matka zkolabovala. Po chvíli strávené v nemocnici se pohublá matka vrací k nim domů. Začíná doma opět uklízet a vařit, jen do práce nechodí. I přes jakoukoliv činnost stále myslí na Martina a často si prohlíží staré fotky. Hlavně ty, na kterých je Martin. Matka začíná fotky detailně popisovat do deníku, aby se Martinova osoba nerozplynula.
+Jakub jednou deník nalézá a nesouhlasí s matčinými verzemi. Ale matka se snažila popsat fotografie tak, jak by si to představovala. Věděla, že bratři spolu nevycházeli a věděla, že Martin nebyl žádný „svatoušek“, ale takhle na něj vzpomínat nechtěla.
+
+Příběh končí tím, že se Jakub zase vrací v myšlenkách do současnosti a těší se do školy, ví, že se domů už nikdy nevrátí, i když matce tvrdil opak. Od Martinova zmizení se rodina přetvařuje, na první pohled vypadá vše v naprostém pořádku, ale přitom je rodina tak zničená, že už není možné, aby se vztahy zase zlepšily.
+Poslední vzpomínka, která Jakubovi ve vlaku bleskla hlavou, byla situace se zvířátkem. Jakub si jednou otevřel doma knihu a vypadl na něj lísteček, kde bylo bratrovým písmem napsáno: „Zvířátko je za topením." Vzkaz ze záhrobí? A opravdu, za topením byl malý stříbrný přívěsek ve tvaru nějakého zvířete. Přívěsek dostal Martin od Marty, zapadl mu za topením, ale nechtěl se mu hned vytahovat, tak si napsal upomínku jako záložku do knížky, kterou zrovna četl a posléze na celou věc zapomněl. Jakub si bere zvířátko spolu s nožíkem, který otec kdysi bratrovi věnoval a Kuba mu ho moc záviděl. Teď už si jej vzít mohl. Martin už ho potřebovat nebude.
+<br><br><br><br><br><br>]]></description><link>gjb/čeština/knihy/zmizet.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Zmizet.md</guid><pubDate>Sun, 13 Apr 2025 13:22:46 GMT</pubDate></item><item><title><![CDATA[Autor]]></title><description><![CDATA[<a class="tag" href="?query=tag:kniha" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#kniha</a> <a class="tag" href="?query=tag:epika" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#epika</a> <a class="tag" href="?query=tag:novela" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#novela</a> <a class="tag" href="?query=tag:povídka" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#povídka</a> <a class="tag" href="?query=tag:chronologickáSRetrospektivou" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#chronologickáSRetrospektivou</a> <a class="tag" href="?query=tag:ichforma" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ichforma</a> <a class="tag" href="?query=tag:erforma" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#erforma</a> <a class="tag" href="?query=tag:hovorově" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#hovorově</a> <a class="tag" href="?query=tag:rychlýSpád" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#rychlýSpád</a> 
+ <br><a href=".?query=tag:kniha" class="tag" target="_blank" rel="noopener nofollow">#kniha</a><br><br><a data-href="Petra Soukupová" href="gjb/čeština/autoři/petra-soukupová.html" class="internal-link" target="_self" rel="noopener nofollow">Petra Soukupová</a><br><br><br><a href=".?query=tag:epika" class="tag" target="_blank" rel="noopener nofollow">#epika</a><br><br>soubor 3 povídek (Zmizel, Na krátko, Věneček)<br>
+<a href=".?query=tag:novela" class="tag" target="_blank" rel="noopener nofollow">#novela</a> <a href=".?query=tag:povídka" class="tag" target="_blank" rel="noopener nofollow">#povídka</a> <br><br>
+<br>mezilidské vztahy v rodině i mimo + jejich narušení
+<br>vnímání světa z perspektivy dítěte
+<br>proměnlivost života
+<br>boj o lásku a uznání
+<br><br>
+<br>zachycení mezilidských vztahů mezi členy rodiny a jejich narušení
+<br>rodina
+<br>vztahy
+<br>láska
+<br>neshoda
+<br>nepochopení
+<br>alkohol (hlavně v novele Zmizel)
+<br>zábava
+<br>boj o uznání (hlavně v novele Věneček, dále v Na krátko)
+<br>obtížná komunikace
+<br>pomíjivost života
+<br>snaha vyrovnání se s minulostí a traumaty
+<br>(zanedbaná) výchova dětí (hlavně v novele Na krátko)
+<br><br>
+<br>chronologická kompozice s retrospektivou <a href=".?query=tag:chronologickáSRetrospektivou" class="tag" target="_blank" rel="noopener nofollow">#chronologickáSRetrospektivou</a>
+<br>paralelní - současné vyprávění několika dějových linek z pohledů více postav
+<br>rámcová - do úvodního příběhu se vkrádá mnoho ucelených příběhů
+<br><br>
+<br>Česká republika, na začátku 21. století (2006 - Zmizel)
+
+<br>Zmizel - Hradec Králové a okolí (Dlouhá Louka), skokově Praha a další velká města (hledání matky)
+<br>Na krátko - Praha
+<br>Věneček - Žďár nad Sázavou, Praha
+
+<br>v dětství 80. léta, v dospělosti také 0. léta
+
+
+
+
+<br><br>
+<br>ich-forma <a href=".?query=tag:ichforma" class="tag" target="_blank" rel="noopener nofollow">#ichforma</a> (střídání vypravěčských postav) i er-forma (popis pocitů postav vypravěčem) <a href=".?query=tag:erforma" class="tag" target="_blank" rel="noopener nofollow">#erforma</a>
+<br><br>
+<br>převládá hovorová čeština s nespisovnými&nbsp;výrazy <a href=".?query=tag:hovorově" class="tag" target="_blank" rel="noopener nofollow">#hovorově</a>
+<br>vulgarismy, zdrobněliny i zkratky, (nářečí)
+<br>věty a souvětí velmi jednoduché a docela krátké
+
+<br>rychlý spád <a href=".?query=tag:rychlýSpád" class="tag" target="_blank" rel="noopener nofollow">#rychlýSpád</a>
+
+
+<br>docela depresivní
+<br>smutná ironie - (humor ve smutných chvílích)
+<br><br><br><br><br>
+<br>nemá rád sport, protože je v něm nešikovný
+<br>rád maluje, vaří, peče
+<br>má rád přírodu
+<br>nemá rád pozornost cizích lidí
+<br>více si rozumí s matkou
+<br>je spíše takový samotář
+<br>po tom, co přijde o nohu je docela statečný
+<br>k životu je ironický, smutné události popisuje s „,humorem"
+<br>umělecky nadaný
+<br>je mu líto, že mu otec nevěnuje tolik pozornosti
+<br><br>
+<br>arogantní
+<br>hezký
+<br>sportovně nadaný
+<br>Jakuba trápí, straší, spoustu věcí mu závidí
+<br>bere Jakuba spíše jako přítěž, nemá s ním pevný vztah
+<br>závidí Jakubovi, že má víc matčiny lásky než on
+<br><br>
+<br>před Martinovým zmizením normální matka
+
+<br>snaží se bránit mladší dítě (Jakuba) před Martinovým popichováním
+
+<br>chce brát obě děti stejně, ale okolnosti moc nedovolují (Martinovo chování k Jakubovi a otcovo oblíbení Martina)
+
+
+
+
+<br>po zmizení Martina se stává psychicky narušenou
+
+<br>není schopna vést normální život
+
+
+<br>u všech věcí, které dělá, přemýšlí, co napíše k další fotce s Martinem
+
+<br>vidí svět jen skrze fotky
+
+
+<br>amatérské focení
+<br><br>
+<br>trenér běžeckého oddílu (orienťák)
+<br>problémy s alkoholem
+<br>má v oblibě Martina, protože mu atletika jde
+
+<br>chce, aby to ve sportu Martin dotáhl na profesionální dráhu
+
+<br>do jeho snů nutí svého syna
+
+
+
+
+<br>po jeho zmizení se jeho problémy s alkoholem ještě zhorší
+
+<br>není schopný usnout bez alkoholu
+
+
+<br>Jakuba dost přehlíží, protože v něm vidí sportovního nešiku
+
+<br>jeho malování a "motání se v kuchyni" považuje za málo mužné
+
+
+<br>amatérské focení
+<br><br>
+<br>jediný člen rodiny, který má alespoň trochu rozumu, neztrácí hlavu
+<br>o Jakuba se dobře stará, když jeho rodiče nemohou
+<br>má ráda všechny své vnuky (Jakuba, Martina i jejich pražské 2 bratrance a sestřenici)
+<br><br>
+<br>spolužačka Jakuba
+<br>nejdřív odtažití, pak se skamarádí, kreslí jí obrázky, vypráví o Pirátovi
+<br>po návštěvě u nich doma ji sbalí Martin (hlavně aby Jakub záviděl), dá mu přívěšek
+
+<br>pro Jakuba šok, konec přátelství
+
+
+<br><br>
+<br>papoušek Jakuba
+<br>dostane ho po té noze, neustále ho kreslí
+<br><br><br><br><br><br>
+<br>mladší
+<br>naivně myslí na příchod svého otce, na kterého je pyšný, i když ho nezná
+
+<br>(prý švédský námořník, neví, že je to Karel bydlící o pár ulic jinde)
+
+
+<br>stále stříhá ornamenty do papíru a vytváří modely lodí
+<br>moc se neučí
+<br>trochu raubíř
+<br><br>
+<br>starší
+<br>chodí na učiliště na kuchařku
+<br>tlustá, má z toho deprese, ale nic pro to nedělá, stále jí (všechno)
+<br>nestabilní vztah s Vojtou
+<br>řeší své středoškolské lásky
+<br><br>
+<br>matka samoživitelka
+<br>po práci unavená
+
+<br>"relax" - přemýšlení nad jinými věcmi než nad problémy
+
+<br>koukání na televizi (i s babičkou)
+
+
+
+
+<br>mírné zanedbávání dětí
+<br>chce mít klid, což jí nikdo moc nedopřeje (všichni potřebují něco řešit)
+<br>občas se napije a kouří
+<br>
+<br><br>
+<br>postrach rodiny
+<br>má výron kotníku, přijede na návštěvu, aby se o ni postarali (spíš naopak)
+<br>dobré úmysly, chce všem pomoct
+<br>radikální řešení situací, poštvání všech proti sobě
+<br>vše by udělala nejlíp
+<br>své rituály
+
+<br>koukání se na nekonečné seriály (Ulice, Ordinace...)
+
+
+<br><br>
+<br>otec Vojty
+<br>fotbalový fanoušek
+<br>alkoholik
+<br>takový typický “český pepík”
+<br>žil se svojí manželkou a dalším synem, rozvedli se
+<br>měl nehodu na motorce, uvědomil si své chyby a chce je napravit
+
+<br>nabízí pomoc Jiřině
+
+
+<br><br><br>
+<br>otec Pavlíny
+<br>žije v Americe
+<br>odjel před narozením Pavlíny
+<br>posílá jí balíčky se značkovým oblečením a bonbóny
+
+<br>(Pavlína si díky tomu Vojtu dobírá)
+
+
+<br>pozval Pavlínu na léto do Ameriky
+<br>matka s dětmi bydlí v bytě od něj (kompenzace za odchod)
+<br><br>
+<br>sestra Jiřiny
+<br>babička ji vyzdvihává jako ta dcera, která si s životem poradila lépe
+<br><br>
+<br>chce ho Pavlína
+<br>má nakonec jinou
+<br><br>
+<br>chce Pavlínu
+<br>
+<br><br>Vojta utrácí své kapesné za papírové slepovací modely (hlavně bitevních lodí), vystřihování ho baví i tak moc. Například z nudy stříhá do své učebnice češtiny a pak z toho má problém, že nemůže na hodinách pracovat. Vyloudí od matky peníze na učebnici a pak si koupí další model lodi.
+Matce zavolá babička s výronem kotníku a i po matčině přemlouvání následně přijíždí pod záminkou nemohoucí, ale matce už při příjezdu autobusem tuší, že to není ten hlavní důvod. 
+<br>Babička něco s kufry<br>
+<br>matka s Vojtou v ředitelně - proč? - nějaké ohrožení s nůžkami - říznutí?<br><br><br><br>
+<br>starší sestra
+<br>myslí si, že je její otec Milan
+<br>nechce žít ve Vladimírově domě, když má "vlastního" tátu jinde
+<br>závidí Hance, že má oba rodiče pohromadě
+
+<br>i jí za to nenávidí
+<br>dost vyčítá matce, že nezůstala s Milanem
+
+<br>aby měla Helenka rodiče pohromadě
+
+
+
+
+<br>dostává od Milana drahé dárky
+
+<br>dává si na ně pozor
+<br>nechce půjčovat Hance
+
+
+<br>po smrti matky
+
+<br>"stěhuje" se s Milanem do Prahy
+
+<br>bere jen nejpotřebnější věci
+<br>odjíždí bez rozloučení s kýmkoliv
+
+
+<br>v Praze kontakt s cikány
+
+<br>ztráta motivace do studií
+
+
+<br>po revoluci je přinucena se odstěhovat s Milanem
+
+<br>studuje v Německu
+
+
+
+
+<br>v dospělosti učitelka
+<br><br>
+<br>mladší sestra
+<br>milá, hodná
+<br>nechce mít s Helenkou svár
+<br>ale umí se bránit
+<br>závidí jí ty drahé věci
+
+<br>ale stačilo by jí je jen  půjčit
+
+
+<br><br>
+<br>manžel Vladimír
+<br>matka Heleny a Hanky
+<br>žila s oběma dcerami i s Vladimírem u něj v domku i s babičkou
+<br><br>
+<br>chudší umělec
+<br>hodný, opravdu miluje matku
+<br>miluje své dcery
+<br>po smrti matky v depresi (i z toho, že ho Helenka opustila)
+<br><br>
+<br>údajný otec Helenky
+<br>v dětství jí brával na výlety jednou za čas
+<br><br>
+<br>matka Vladimíra
+<br><br>
+<br>syn Helenky
+<br>trochu nevychovaný
+<br><br>
+<br>otec Jiříka
+<br>miluje motorky
+
+<br>Helenka se bojí jeho špatného vlivu na Jiříka
+
+
+<br>]]></description><link>gjb/čeština/knihy/zmizet-j.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/Zmizet-J.md</guid><pubDate>Sun, 13 Apr 2025 13:22:01 GMT</pubDate></item><item><title><![CDATA[Bajka]]></title><description><![CDATA[ 
  <br>
 <br>krátký útvar
 <br>zakladatel Ezop
 <br>vystupují zvířata, které jsou spjata s vlastnostmi lidí
 ]]></description><link>gjb/čeština/lit.-druhy/lit.-poddruhy/bajka.html</link><guid isPermaLink="false">GJB/Čeština/Lit. druhy/Lit. poddruhy/Bajka.md</guid><pubDate>Thu, 27 Feb 2025 09:12:36 GMT</pubDate></item><item><title><![CDATA[Novela]]></title><description><![CDATA[ 
  <br>
-<br>epický útvar středního rozsahu
+<br>epický útvar středního rozsahu (delší než povídka, kratší než román)
 <br>oproti <a data-tooltip-position="top" aria-label="Román" data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">románu</a> méně postav, které se v průběhu nevyvíjí
 <br>pouze jedna dějová linie
 <br>děj je soustředěný a má rychlejší spád - stručnější vypravování, soustředěné na jeden problém
+<br>děj je ale víc komplexní než u <a data-tooltip-position="top" aria-label="Povídka" data-href="Povídka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/povídka.html" class="internal-link" target="_self" rel="noopener nofollow">povídky</a> (kromě Kafky)
 <br>ich/er forma
 <br>na konci nečekaný dějový zvrat - <a data-tooltip-position="top" aria-label="Pointa" data-href="Pointa" href="gjb/čeština/pointa.html" class="internal-link" target="_self" rel="noopener nofollow">pointa</a>
 <br><br>
 <br><a data-href="Viktor Dyk" href="Viktor Dyk" class="internal-link" target="_self" rel="noopener nofollow">Viktor Dyk</a> - <a data-href="Krysař" href="Krysař" class="internal-link" target="_self" rel="noopener nofollow">Krysař</a>
 <br><a data-href="John Steinbeck" href="gjb/čeština/autoři/john-steinbeck.html" class="internal-link" target="_self" rel="noopener nofollow">John Steinbeck</a> - <a data-href="O myších a lidech" href="O myších a lidech" class="internal-link" target="_self" rel="noopener nofollow">O myších a lidech</a>
 <br><a data-href="George Orwell" href="George Orwell" class="internal-link" target="_self" rel="noopener nofollow">George Orwell</a> - <a data-href="Farma Zvířat" href="gjb/čeština/knihy/farma-zvířat.html" class="internal-link" target="_self" rel="noopener nofollow">Farma Zvířat</a>
-]]></description><link>gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html</link><guid isPermaLink="false">GJB/Čeština/Lit. druhy/Lit. poddruhy/Novela.md</guid><pubDate>Sat, 12 Apr 2025 20:22:25 GMT</pubDate></item><item><title><![CDATA[Román]]></title><description><![CDATA[ 
+]]></description><link>gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html</link><guid isPermaLink="false">GJB/Čeština/Lit. druhy/Lit. poddruhy/Novela.md</guid><pubDate>Sun, 13 Apr 2025 13:20:38 GMT</pubDate></item><item><title><![CDATA[Povídka]]></title><description><![CDATA[ 
+ <br>
+<br>epický útvar krátkého rozsahu
+<br>oproti <a data-tooltip-position="top" aria-label="Román" data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">románu</a> méně postav, které se v průběhu nevyvíjí
+<br>pouze jedna dějová linie
+<br>jednoduchý spád - zaměřuje se jen na jednu věc
+<br>ich/er forma
+<br><br>
+<br><a data-href="Petra Soukupová" href="gjb/čeština/autoři/petra-soukupová.html" class="internal-link" target="_self" rel="noopener nofollow">Petra Soukupová</a> - <a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
+<br><a data-href="Franz Kafka" href="Franz Kafka" class="internal-link" target="_self" rel="noopener nofollow">Franz Kafka</a> - obecně povídky
+<br><a data-href="Ota Pavel" href="Ota Pavel" class="internal-link" target="_self" rel="noopener nofollow">Ota Pavel</a> - <a data-href="Smrt krásných srnců" href="Smrt krásných srnců" class="internal-link" target="_self" rel="noopener nofollow">Smrt krásných srnců</a> soubor povídek
+]]></description><link>gjb/čeština/lit.-druhy/lit.-poddruhy/povídka.html</link><guid isPermaLink="false">GJB/Čeština/Lit. druhy/Lit. poddruhy/Povídka.md</guid><pubDate>Sun, 13 Apr 2025 12:44:32 GMT</pubDate></item><item><title><![CDATA[Román]]></title><description><![CDATA[ 
  <br>
 <br>epický útvar delšího rozsahu
 <br>oproti <a data-tooltip-position="top" aria-label="Novela" data-href="Novela" href="gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html" class="internal-link" target="_self" rel="noopener nofollow">novele</a> více postav, které se v průběhu vyvíjí
@@ -1737,7 +2361,7 @@ V&nbsp;tu chvíli přijde správa o příjezdu opravdového inspektora.]]></desc
 <br>pásmo vypravěče a pásmo postav
 <br>důležitý je čas: druhy kompozice (např. chronologická, rámcová...)
 <br><br>
-<br>kratší - <a data-href="Povídka" href="Povídka" class="internal-link" target="_self" rel="noopener nofollow">Povídka</a>
+<br>kratší - <a data-href="Povídka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/povídka.html" class="internal-link" target="_self" rel="noopener nofollow">Povídka</a>
 <br>střední - <a data-href="Novela" href="gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html" class="internal-link" target="_self" rel="noopener nofollow">Novela</a>
 <br>delší - <a data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">Román</a>
 <br><a data-href="Bajka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/bajka.html" class="internal-link" target="_self" rel="noopener nofollow">Bajka</a>
@@ -1811,7 +2435,7 @@ V&nbsp;tu chvíli přijde správa o příjezdu opravdového inspektora.]]></desc
 <br><a data-href="Moliére" href="gjb/čeština/autoři/moliére.html" class="internal-link" target="_self" rel="noopener nofollow">Moliére</a> - <a data-href="Lakomec" href="gjb/čeština/knihy/lakomec.html" class="internal-link" target="_self" rel="noopener nofollow">Lakomec</a>
 <br><a data-href="Pierre Corneille" href="gjb/čeština/autoři/pierre-corneille.html" class="internal-link" target="_self" rel="noopener nofollow">Pierre Corneille</a> - Cid (středověk)
 <br>[Jean de La Fontaine] - bajky
-<br><br><br><br>]]></description><link>gjb/čeština/lit.-směry/klasicismus.html</link><guid isPermaLink="false">GJB/Čeština/Lit. Směry/Klasicismus.md</guid><pubDate>Mon, 10 Mar 2025 09:26:03 GMT</pubDate></item><item><title><![CDATA[Komedie de larte]]></title><description><![CDATA[ 
+<br><br><br><a data-tooltip-position="top" aria-label="GJB/Čeština/Autoři/Jean de La Fontaine.md" data-href="GJB/Čeština/Autoři/Jean de La Fontaine.md" href="gjb/čeština/autoři/jean-de-la-fontaine.html" class="internal-link" target="_self" rel="noopener nofollow">Jean de La Fontaine</a><br><a data-tooltip-position="top" aria-label="GJB/Čeština/Autoři/Pierre Corneille.md" data-href="GJB/Čeština/Autoři/Pierre Corneille.md" href="gjb/čeština/autoři/pierre-corneille.html" class="internal-link" target="_self" rel="noopener nofollow">Pierre Corneille</a>]]></description><link>gjb/čeština/lit.-směry/klasicismus.html</link><guid isPermaLink="false">GJB/Čeština/Lit. Směry/Klasicismus.md</guid><pubDate>Mon, 10 Mar 2025 09:26:03 GMT</pubDate></item><item><title><![CDATA[Komedie de larte]]></title><description><![CDATA[ 
  <br>
 <br>v Itálii
 <br>odehrává se na venkově
@@ -1894,7 +2518,7 @@ V&nbsp;tu chvíli přijde správa o příjezdu opravdového inspektora.]]></desc
 <br><a data-href="Paul Verlaine" href="gjb/čeština/autoři/paul-verlaine.html" class="internal-link" target="_self" rel="noopener nofollow">Paul Verlaine</a>
 <br><a data-href="Arthur Rimbaud" href="gjb/čeština/autoři/arthur-rimbaud.html" class="internal-link" target="_self" rel="noopener nofollow">Arthur Rimbaud</a>
 <br><a data-href="Charles Baudelaire" href="Charles Baudelaire" class="internal-link" target="_self" rel="noopener nofollow">Charles Baudelaire</a>
-<br><br><br><br>]]></description><link>gjb/čeština/lit.-směry/prokletí-básníci.html</link><guid isPermaLink="false">GJB/Čeština/Lit. Směry/Prokletí básníci.md</guid><pubDate>Thu, 13 Feb 2025 12:27:48 GMT</pubDate></item><item><title><![CDATA[Reakce na II. sv. válku v literatuře]]></title><description><![CDATA[ 
+<br><br><br><a data-tooltip-position="top" aria-label="GJB/Čeština/Autoři/Arthur Rimbaud.md" data-href="GJB/Čeština/Autoři/Arthur Rimbaud.md" href="gjb/čeština/autoři/arthur-rimbaud.html" class="internal-link" target="_self" rel="noopener nofollow">Arthur Rimbaud</a><br><a data-tooltip-position="top" aria-label="GJB/Čeština/Autoři/Paul Verlaine.md" data-href="GJB/Čeština/Autoři/Paul Verlaine.md" href="gjb/čeština/autoři/paul-verlaine.html" class="internal-link" target="_self" rel="noopener nofollow">Paul Verlaine</a>]]></description><link>gjb/čeština/lit.-směry/prokletí-básníci.html</link><guid isPermaLink="false">GJB/Čeština/Lit. Směry/Prokletí básníci.md</guid><pubDate>Thu, 13 Feb 2025 12:27:48 GMT</pubDate></item><item><title><![CDATA[Reakce na II. sv. válku v literatuře]]></title><description><![CDATA[ 
  <br>
 <br>zdroje: 
 <br><br>
@@ -2391,18 +3015,42 @@ Více řečnických otázek = co otázka to odstavec<br><br>
 <br>kostel sv. Jan pod Skalou, kostel sv. Mikuláše na Malé Straně
 <br>selské baroko - vesnice Hoštice
 <br>Ferdinand Bokov - sochy na Karlově mostě
-]]></description><link>gjb/čeština/barokní-literatura.html</link><guid isPermaLink="false">GJB/Čeština/Barokní literatura.md</guid><pubDate>Thu, 30 Jan 2025 08:25:07 GMT</pubDate></item><item><title><![CDATA[Česká literatura po roce 1989]]></title><description><![CDATA[ 
+]]></description><link>gjb/čeština/barokní-literatura.html</link><guid isPermaLink="false">GJB/Čeština/Barokní literatura.md</guid><pubDate>Thu, 30 Jan 2025 08:25:07 GMT</pubDate></item><item><title><![CDATA[Cena Jiřího Ortena]]></title><description><![CDATA[ 
+ <br>
+<br>Je určena mladým autorům do 30 let.
+<br>Pojmenovaná po básníkovi Jiřím Ortenovi, který zemřel v mladém věku během 2. světové války.
+]]></description><link>gjb/čeština/cena-jiřího-ortena.html</link><guid isPermaLink="false">GJB/Čeština/Cena Jiřího Ortena.md</guid><pubDate>Sun, 13 Apr 2025 11:09:08 GMT</pubDate></item><item><title><![CDATA[Česká literatura po roce 1989]]></title><description><![CDATA[ 
  <br><br>
 <br>zrušení cenzury
 <br>splynutí oficiální, samizdatové a exilové literatury
 <br>autoři se často vrací do historie - komunismus, válka (do té doby nebyly vydány nestranné knihy)
 <br><br>
-<br><a data-href="Petra Soukupová" href="gjb/čeština/autoři/petra-soukupová.html" class="internal-link" target="_self" rel="noopener nofollow">Petra Soukupová</a> - <a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>, <a data-href="Zmizet" href="Zmizet" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
+<br><a data-href="Petra Soukupová" href="gjb/čeština/autoři/petra-soukupová.html" class="internal-link" target="_self" rel="noopener nofollow">Petra Soukupová</a> - <a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>, <a data-href="Zmizet" href="gjb/čeština/knihy/zmizet.html" class="internal-link" target="_self" rel="noopener nofollow">Zmizet</a>
 <br><a data-href="Karin Ledecká" href="Karin Ledecká" class="internal-link" target="_self" rel="noopener nofollow">Karin Ledecká</a> - <a data-href="Šikmý kostel" href="Šikmý kostel" class="internal-link" target="_self" rel="noopener nofollow">Šikmý kostel</a>
 <br><a data-href="Jiří Hájíček" href="gjb/čeština/autoři/jiří-hájíček.html" class="internal-link" target="_self" rel="noopener nofollow">Jiří Hájíček</a> - <a data-tooltip-position="top" aria-label="Jiří Hájíček > Rybí krev" data-href="Jiří Hájíček#Rybí krev" href="gjb/čeština/autoři/jiří-hájíček.html#Rybí_krev" class="internal-link" target="_self" rel="noopener nofollow">Rybí krev</a> - stavba Temelína
 <br><a data-href="Kateřina Tučková" href="gjb/čeština/autoři/kateřina-tučková.html" class="internal-link" target="_self" rel="noopener nofollow">Kateřina Tučková</a> - <a data-tooltip-position="top" aria-label="Kateřina Tučková > Vyhnání Gerty Schnirch" data-href="Kateřina Tučková#Vyhnání Gerty Schnirch" href="gjb/čeština/autoři/kateřina-tučková.html#Vyhnání_Gerty_Schnirch" class="internal-link" target="_self" rel="noopener nofollow">Vyhnání Gerty Schnirch</a> - vyhnání Němců po 2. sv. v.
 ]]></description><link>gjb/čeština/česká-literatura-po-roce-1989.html</link><guid isPermaLink="false">GJB/Čeština/Česká literatura po roce 1989.md</guid><pubDate>Sun, 13 Apr 2025 07:44:57 GMT</pubDate></item><item><title><![CDATA[Český realismus]]></title><description><![CDATA[ 
- <br>Národní divadlo<br>]]></description><link>gjb/čeština/český-realismus.html</link><guid isPermaLink="false">GJB/Čeština/Český realismus.md</guid><pubDate>Thu, 17 Oct 2024 08:30:29 GMT</pubDate></item><item><title><![CDATA[Čeština panda]]></title><description><![CDATA[ 
+ <br>Národní divadlo<br><br>
+<br>původně postaveno Prozatimní divadlo na stejném místě
+<br>1868 - položen základní kámen ND
+<br>1881 - otevřeno, vyhořelo
+<br>1883 - znovuotevřeno, Libuše - B. Smetana
+<br>neorenezance
+<br><br>
+<br>
+V. Hynais - opona<br>
+<img alt="opona-nd.jpg" src="gjb/čeština/src/opona-nd.jpg">
+
+<br>
+Alfonz Mucha -
+
+<br>
+Myslbeck
+
+<br>
+Mikoláš Aleš
+
+]]></description><link>gjb/čeština/český-realismus.html</link><guid isPermaLink="false">GJB/Čeština/Český realismus.md</guid><pubDate>Thu, 17 Oct 2024 08:30:29 GMT</pubDate><enclosure url="gjb/čeština/src/opona-nd.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="gjb/čeština/src/opona-nd.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Čeština panda]]></title><description><![CDATA[ 
  <br><br>
 <br>dává se tam, kde se dá narvat -ej-
 <br><br>
@@ -2602,7 +3250,12 @@ Petr Chelčický<br><br><br>
 <br>samizdatová
 <br><br>
 <br>ve Franci
-<br><br><br><br><br>]]></description><link>gjb/čeština/literatura-za-komunismu.html</link><guid isPermaLink="false">GJB/Čeština/Literatura za komunismu.md</guid><pubDate>Sun, 13 Apr 2025 07:46:01 GMT</pubDate></item><item><title><![CDATA[Májovci]]></title><description><![CDATA[ 
+<br><br><br><br><br>]]></description><link>gjb/čeština/literatura-za-komunismu.html</link><guid isPermaLink="false">GJB/Čeština/Literatura za komunismu.md</guid><pubDate>Sun, 13 Apr 2025 07:46:01 GMT</pubDate></item><item><title><![CDATA[Magnesia Litera]]></title><description><![CDATA[ 
+ <br>
+<br>Hlavní cenou je Kniha roku.
+<br>Je to nejznámější a nejrespektovanější literární cena v Česku.
+<br>Uděluje se v několika kategoriích – např. próza, poezie, dětská kniha, publicistika, překlad atd.
+]]></description><link>gjb/čeština/magnesia-litera.html</link><guid isPermaLink="false">GJB/Čeština/Magnesia Litera.md</guid><pubDate>Sun, 13 Apr 2025 11:10:45 GMT</pubDate></item><item><title><![CDATA[Májovci]]></title><description><![CDATA[ 
  <br><br>
 <br>fejetony
 
@@ -2647,7 +3300,7 @@ Karel Klostermann
  <br>
 <br><a data-tooltip-position="top" aria-label="https://drive.google.com/drive/folders/1Wdz8nYkZ5phb-8m32yEG6LWEsgqbXd75" rel="noopener nofollow" class="external-link" href="https://drive.google.com/drive/folders/1Wdz8nYkZ5phb-8m32yEG6LWEsgqbXd75" target="_blank">Mariannininy zápisy</a>
 <br><a data-href="Maturita template - Jeník" href="gjb/čeština/maturita-template-jeník.html" class="internal-link" target="_self" rel="noopener nofollow">Maturita template - Jeník</a>
-<br><br>]]></description><link>gjb/čeština/maturita-četba.html</link><guid isPermaLink="false">GJB/Čeština/Maturita četba.md</guid><pubDate>Sat, 12 Apr 2025 20:21:26 GMT</pubDate></item><item><title><![CDATA[Maturita template - Jeník]]></title><description><![CDATA[ 
+<br><br>]]></description><link>gjb/čeština/maturita-četba.html</link><guid isPermaLink="false">GJB/Čeština/Maturita četba.md</guid><pubDate>Sun, 13 Apr 2025 09:57:55 GMT</pubDate></item><item><title><![CDATA[Maturita template - Jeník]]></title><description><![CDATA[ 
  <br>
 <br>období knihy
 <br>ostatní směry doby + autoři + díla
@@ -3061,89 +3714,4 @@ Mikoláš Aleš
 
 
 ]]></description><link>gjb/čeština/zájmena.html</link><guid isPermaLink="false">GJB/Čeština/Zájmena.md</guid><pubDate>Thu, 27 Mar 2025 16:03:19 GMT</pubDate></item><item><title><![CDATA[Zásada tří jednot]]></title><description><![CDATA[ 
- ]]></description><link>gjb/čeština/zásada-tří-jednot.html</link><guid isPermaLink="false">GJB/Čeština/Zásada tří jednot.md</guid><pubDate>Mon, 13 Jan 2025 09:43:35 GMT</pubDate></item><item><title><![CDATA[K moři]]></title><description><![CDATA[ 
- <br>
-<br><a data-tooltip-position="top" aria-label="https://rozbor-dila.cz/k-mori-rozbor-dila-2/" rel="noopener nofollow" class="external-link" href="https://rozbor-dila.cz/k-mori-rozbor-dila-2/" target="_blank">zdroj</a>
-<br><br>Česká literatura po roce 1989<br><br><br><br>
-<br>zrušení cenzury
-<br>splynutí oficiální, samizdatové a exilové literatury
-<br>autoři se často vrací do historie - komunismus, válka (do té doby nebyly vydány nestranné knihy)
-<br><br>
-<br><a data-href="Petra Soukupová" href="gjb/čeština/autoři/petra-soukupová.html" class="internal-link" target="_self" rel="noopener nofollow">Petra Soukupová</a> - <a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>, <a data-href="Zmizet" href="Zmizet" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Zmizet</a>
-<br><a data-href="Karin Ledecká" href="Karin Ledecká" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Karin Ledecká</a> - <a data-href="Šikmý kostel" href="Šikmý kostel" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Šikmý kostel</a>
-<br><a data-href="Jiří Hájíček" href="gjb/čeština/autoři/jiří-hájíček.html" class="internal-link" target="_self" rel="noopener nofollow">Jiří Hájíček</a> - <a data-tooltip-position="top" aria-label="Jiří Hájíček > Rybí krev" data-href="Jiří Hájíček#Rybí krev" href="gjb/čeština/autoři/jiří-hájíček.html#Rybí_krev" class="internal-link" target="_self" rel="noopener nofollow">Rybí krev</a> - stavba Temelína
-<br><a data-href="Kateřina Tučková" href="gjb/čeština/autoři/kateřina-tučková.html" class="internal-link" target="_self" rel="noopener nofollow">Kateřina Tučková</a> - <a data-tooltip-position="top" aria-label="Kateřina Tučková > Vyhnání Gerty Schnirch" data-href="Kateřina Tučková#Vyhnání Gerty Schnirch" href="gjb/čeština/autoři/kateřina-tučková.html#Vyhnání_Gerty_Schnirch" class="internal-link" target="_self" rel="noopener nofollow">Vyhnání Gerty Schnirch</a> - vyhnání Němců po 2. sv. v.
-<br><br>Jiří Hájíček<br><br><br><br>
-<br>jižní Čechy - narodil se zde, píše o nich
-<br>vyrostl ve vesnici, která musela být zbourána kvůli stavbě Temelína
-<br><br>
-<br>příběhy lidí z vesnice, která měla být zatopena kvůli stavbě Temelína
-<br>obyvatelé vesnice měli být přestěhování do paneláku ve městě
-<br>vedou petici proti stavbě - neúspěšně
-<br>
-Kateřina Tučková<br><br><br><br>
-<br>vyhnání Němců z Brna po 2. sv. válce
-<br>Gerta se cítí být Češka, i tak má být vyhnána
-<br>podaří se jí zůstav v Čechách
-<br>lidé ji nemají rádi - Němka
-<br>nakonec umírá
-<br><br>Petra Soukupová<br><br><br><br>
-<br>scénáristka (je vidět na způsobu psaní)
-<br>scénáristka seriálu Comeback, Ulice
-<br>zabývá se mezilidskýmy vztahy
-<br><br>
-<br>Zmizet - <a data-href="Magnesia Litera" href="Magnesia Litera" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Magnesia Litera</a>
-<br>K moři - <a data-href="Cena Jiřího Ortena" href="Cena Jiřího Ortena" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Cena Jiřího Ortena</a>
-<br><br>
-<br><a data-href="K moři" href="gjb/čeština/knihy/k-moři.html" class="internal-link" target="_self" rel="noopener nofollow">K moři</a>
-<br><a data-href="Zmizet" href="Zmizet" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Zmizet</a>
-<br>Marta děti nechce
-<br><br><br>Epika<br><br>
-<br>dominantní děj - příběh
-<br>vystupují postavy
-<br>vypravěč: ich/er forma
-<br>pásmo vypravěče a pásmo postav
-<br>důležitý je čas: druhy kompozice (např. chronologická, rámcová...)
-<br><br>
-<br>kratší - <a data-href="Povídka" href="Povídka" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Povídka</a>
-<br>střední - <a data-href="Novela" href="gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html" class="internal-link" target="_self" rel="noopener nofollow">Novela</a>
-<br>delší - <a data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">Román</a>
-<br><a data-href="Bajka" href="gjb/čeština/lit.-druhy/lit.-poddruhy/bajka.html" class="internal-link" target="_self" rel="noopener nofollow">Bajka</a>
-<br><br>Novela<br><br>
-<br>epický útvar středního rozsahu
-<br>oproti <a data-tooltip-position="top" aria-label="Román" data-href="Román" href="gjb/čeština/lit.-druhy/lit.-poddruhy/román.html" class="internal-link" target="_self" rel="noopener nofollow">románu</a> méně postav, které se v průběhu nevyvíjí
-<br>pouze jedna dějová linie
-<br>děj je soustředěný a má rychlejší spád - stručnější vypravování, soustředěné na jeden problém
-<br>ich/er forma
-<br>na konci nečekaný dějový zvrat - <a data-tooltip-position="top" aria-label="Pointa" data-href="Pointa" href="gjb/čeština/pointa.html" class="internal-link" target="_self" rel="noopener nofollow">pointa</a>
-<br><br>
-<br><a data-href="Viktor Dyk" href="Viktor Dyk" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Viktor Dyk</a> - <a data-href="Krysař" href="Krysař" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">Krysař</a>
-<br><a data-href="John Steinbeck" href="gjb/čeština/autoři/john-steinbeck.html" class="internal-link" target="_self" rel="noopener nofollow">John Steinbeck</a> - <a data-href="O myších a lidech" href="O myších a lidech" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">O myších a lidech</a>
-<br><a data-href="George Orwell" href="George Orwell" class="internal-link is-unresolved" target="_self" rel="noopener nofollow">George Orwell</a> - <a data-href="Farma Zvířat" href="gjb/čeština/knihy/farma-zvířat.html" class="internal-link" target="_self" rel="noopener nofollow">Farma Zvířat</a>
-<br><br><a data-href="Česká literatura po roce 1989" href="gjb/čeština/česká-literatura-po-roce-1989.html" class="internal-link" target="_self" rel="noopener nofollow">Česká literatura po roce 1989</a><br><br>
-<br>nemá motto, prolog, epilog
-<br>3 části
-
-<br>Petrovy dvě ženy
-<br>K moři
-<br>Zbytky životů
-
-
-<br>každá část má kapitoly - názvy kapitola podle názvů postav
-<br>typ: chronologická, paralelní (současné vyprávění několika dějových rovin) a rámcová (do úvodního příběhu se vkládá několik ucelených příběhů)
-<br>vypravěč: er forma, vševědoucí
-<br><br>
-<br>Čechy po roce 1989 - vesnice, Praha
-<br>u moře - nejspíše Chorvatsko
-<br><br>
-<br>rodinné vztahy
-<br>životní příběhy lidí
-<br><br>
-<br>mikropříběhy z díla např. Krysař přichází do města
-<br><br>
-<br><a data-tooltip-position="top" aria-label="Vrstvy češtiny > Obecná čeština" data-href="Vrstvy češtiny#Obecná čeština" href="gjb/čeština/vrstvy-češtiny.html#Obecná_čeština" class="internal-link" target="_self" rel="noopener nofollow">obecná čeština</a>
-<br>psáno zkratkovitě, bez zbytečných detailů
-<br>připomíná scénář
-<br><br>
-<br><a data-tooltip-position="top" aria-label="K moři - postavy.canvas" data-href="K moři - postavy.canvas" href="gjb/čeština/knihy/k-moři-postavy.html" class="internal-link" target="_self" rel="noopener nofollow">vztahy postav|</a>
-<br><br><br><br><br><br><br><br>]]></description><link>gjb/čeština/knihy/k-moři.html</link><guid isPermaLink="false">GJB/Čeština/Knihy/K moři.md</guid><pubDate>Sun, 13 Apr 2025 08:31:51 GMT</pubDate></item></channel></rss>
+ ]]></description><link>gjb/čeština/zásada-tří-jednot.html</link><guid isPermaLink="false">GJB/Čeština/Zásada tří jednot.md</guid><pubDate>Mon, 13 Jan 2025 09:43:35 GMT</pubDate></item></channel></rss>

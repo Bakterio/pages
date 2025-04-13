@@ -1,6 +1,6 @@
 {
   "vaultName": "obsidian-vault",
-  "lastExport": 1744534074010,
+  "lastExport": 1744550652725,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -69,10 +69,11 @@
     "GJB/Čeština/Knihy/Máj.md",
     "GJB/Čeština/Knihy/Malý princ.md",
     "GJB/Čeština/Knihy/Na západní frontě klid.md",
-    "GJB/Čeština/Knihy/Na západní frontě klid.html",
     "GJB/Čeština/Knihy/R.U.R..md",
     "GJB/Čeština/Knihy/Revizor.md",
     "GJB/Čeština/Knihy/Romeo a Julie.md",
+    "GJB/Čeština/Knihy/Zmizet.md",
+    "GJB/Čeština/Knihy/Zmizet-J.md",
     "GJB/Čeština/Kubkis - rozbory/1984 - G. Orwell.docx",
     "GJB/Čeština/Kubkis - rozbory/Audience - V. Havel.docx",
     "GJB/Čeština/Kubkis - rozbory/Bílá nemoc - K. Čapek.docx",
@@ -96,6 +97,7 @@
     "GJB/Čeština/Kubkis - rozbory/template.docx",
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Bajka.md",
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Novela.md",
+    "GJB/Čeština/Lit. druhy/Lit. poddruhy/Povídka.md",
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Román.md",
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Romaneto.md",
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Tragédie.md",
@@ -159,6 +161,7 @@
     "GJB/Čeština/src/Základy historické mluvnice četiny.pdf",
     "GJB/Čeština/Aristetelova kompozice.md",
     "GJB/Čeština/Barokní literatura.md",
+    "GJB/Čeština/Cena Jiřího Ortena.md",
     "GJB/Čeština/Česká literatura po roce 1989.md",
     "GJB/Čeština/Český realismus.md",
     "GJB/Čeština/Čeština panda.md",
@@ -170,6 +173,7 @@
     "GJB/Čeština/Kompozice.md",
     "GJB/Čeština/Literatura podle úrovně.md",
     "GJB/Čeština/Literatura za komunismu.md",
+    "GJB/Čeština/Magnesia Litera.md",
     "GJB/Čeština/Májovci.md",
     "GJB/Čeština/Maturita četba.md",
     "GJB/Čeština/Maturita template - Jeník.md",
@@ -281,547 +285,553 @@
   ],
   "fileInfo": {
     "GJB/Čeština/Knihy/K moři.md": {
-      "modifiedTime": 1744533432256,
-      "sourceSize": 1575,
+      "modifiedTime": 1744550652725,
+      "sourceSize": 7277,
       "exportedPath": "gjb/čeština/knihy/k-moři.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1744534074010,
-      "sourceSize": 77514,
+      "modifiedTime": 1744550652725,
+      "sourceSize": 78789,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1744534074010,
-      "sourceSize": 11646,
+      "modifiedTime": 1744550652725,
+      "sourceSize": 11396,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 12922,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 279,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1744534074010,
-      "sourceSize": 1608,
+      "modifiedTime": 1744550652725,
+      "sourceSize": 4764,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 20769,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
+    "gjb/čeština/src/opona-nd.jpg": {
+      "modifiedTime": 1744550652725,
+      "sourceSize": 37172,
+      "exportedPath": "gjb/čeština/src/opona-nd.jpg",
+      "dependencies": []
+    },
     "GJB/Čeština/Autoři/Aischilos.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 209,
       "exportedPath": "gjb/čeština/autoři/aischilos.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Albert Camus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 928,
       "exportedPath": "gjb/čeština/autoři/albert-camus.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Allen Ginsberg.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 61,
       "exportedPath": "gjb/čeština/autoři/allen-ginsberg.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Alois Jirásek.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 77,
       "exportedPath": "gjb/čeština/autoři/alois-jirásek.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Antoine de Saint-Exupéry.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 345,
       "exportedPath": "gjb/čeština/autoři/antoine-de-saint-exupéry.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Antonín Sova.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 148,
       "exportedPath": "gjb/čeština/autoři/antonín-sova.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Arthur Rimbaud.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 526,
       "exportedPath": "gjb/čeština/autoři/arthur-rimbaud.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Autoři.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 65,
       "exportedPath": "gjb/čeština/autoři/autoři.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Božena Němcová.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 57,
       "exportedPath": "gjb/čeština/autoři/božena-němcová.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Daniel Adam z Veleslavína.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 394,
       "exportedPath": "gjb/čeština/autoři/daniel-adam-z-veleslavína.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Dante Alighieri.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 728,
       "exportedPath": "gjb/čeština/autoři/dante-alighieri.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Eduard Bass.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 401,
       "exportedPath": "gjb/čeština/autoři/eduard-bass.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Erich Maria Remarque.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 549,
       "exportedPath": "gjb/čeština/autoři/erich-maria-remarque.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Ernest Hemingway.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 403,
       "exportedPath": "gjb/čeština/autoři/ernest-hemingway.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Ferdinand Peroutka.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 421,
       "exportedPath": "gjb/čeština/autoři/ferdinand-peroutka.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Francesco Petrarca.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 271,
       "exportedPath": "gjb/čeština/autoři/francesco-petrarca.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Francois Villon.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 206,
       "exportedPath": "gjb/čeština/autoři/francois-villon.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Giovanni Boccaccio.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 98,
       "exportedPath": "gjb/čeština/autoři/giovanni-boccaccio.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Jack Kerouac.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 259,
       "exportedPath": "gjb/čeština/autoři/jack-kerouac.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Jakub Arbes.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 645,
       "exportedPath": "gjb/čeština/autoři/jakub-arbes.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Jan Amos Komenský.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1195,
       "exportedPath": "gjb/čeština/autoři/jan-amos-komenský.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Jaroslav Hašek.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 156,
       "exportedPath": "gjb/čeština/autoři/jaroslav-hašek.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Jean de La Fontaine.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 152,
       "exportedPath": "gjb/čeština/autoři/jean-de-la-fontaine.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Jiří Hájíček.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 438,
       "exportedPath": "gjb/čeština/autoři/jiří-hájíček.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/John Steinbeck.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/autoři/john-steinbeck.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Jules Verne.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 296,
       "exportedPath": "gjb/čeština/autoři/jules-verne.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Karel Čapek.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 4051,
       "exportedPath": "gjb/čeština/autoři/karel-čapek.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Karel Čapek - 1.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1799,
       "exportedPath": "gjb/čeština/autoři/karel-čapek-1.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Karel Hynek Mácha.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 235,
       "exportedPath": "gjb/čeština/autoři/karel-hynek-mácha.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Karel Jaromír Erben.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1028,
       "exportedPath": "gjb/čeština/autoři/karel-jaromír-erben.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Kateřina Tučková.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 305,
       "exportedPath": "gjb/čeština/autoři/kateřina-tučková.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Konstatntin.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 333,
       "exportedPath": "gjb/čeština/autoři/konstatntin.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Kosmas.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 591,
       "exportedPath": "gjb/čeština/autoři/kosmas.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Leonardo da Vinci.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 170,
       "exportedPath": "gjb/čeština/autoři/leonardo-da-vinci.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Metoděj.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/autoři/metoděj.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Milan Kundera.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1739,
       "exportedPath": "gjb/čeština/autoři/milan-kundera.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Mistr Jan Hus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 757,
       "exportedPath": "gjb/čeština/autoři/mistr-jan-hus.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Moliére.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1524,
       "exportedPath": "gjb/čeština/autoři/moliére.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Nikolaj Vasilijevič Gogol.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 577,
       "exportedPath": "gjb/čeština/autoři/nikolaj-vasilijevič-gogol.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Otakar Březina.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 292,
       "exportedPath": "gjb/čeština/autoři/otakar-březina.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Paul Verlaine.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 574,
       "exportedPath": "gjb/čeština/autoři/paul-verlaine.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Petr Chelčický.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 339,
       "exportedPath": "gjb/čeština/autoři/petr-chelčický.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Petra Soukupová.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 354,
       "exportedPath": "gjb/čeština/autoři/petra-soukupová.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Pierre Corneille.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 171,
       "exportedPath": "gjb/čeština/autoři/pierre-corneille.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Publius Ovidius Naso.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 499,
       "exportedPath": "gjb/čeština/autoři/publius-ovidius-naso.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Romain Rolland.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 165,
       "exportedPath": "gjb/čeština/autoři/romain-rolland.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Thomas More.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 125,
       "exportedPath": "gjb/čeština/autoři/thomas-more.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Václav Hájek z Libočan.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 376,
       "exportedPath": "gjb/čeština/autoři/václav-hájek-z-libočan.html",
       "dependencies": []
     },
     "GJB/Čeština/Autoři/William Shakespeare.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 2448,
       "exportedPath": "gjb/čeština/autoři/william-shakespeare.html",
       "dependencies": []
     },
     "GJB/Čeština/Hotovo k maturitě/Hamlet.pdf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 94850,
       "exportedPath": "gjb/čeština/hotovo-k-maturitě/hamlet.pdf",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Bílá nemoc.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 910,
       "exportedPath": "gjb/čeština/knihy/bílá-nemoc.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/České nebe.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 803,
       "exportedPath": "gjb/čeština/knihy/české-nebe.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Don Quijote.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 320,
       "exportedPath": "gjb/čeština/knihy/don-quijote.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Farma Zvířat.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/knihy/farma-zvířat.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Hamlet.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 4514,
       "exportedPath": "gjb/čeština/knihy/hamlet.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/K moři - postavy.canvas": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 2902,
       "exportedPath": "gjb/čeština/knihy/k-moři-postavy.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Kytice z pověstí národních.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 345,
       "exportedPath": "gjb/čeština/knihy/kytice-z-pověstí-národních.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Lakomec.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 4404,
       "exportedPath": "gjb/čeština/knihy/lakomec.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Lakomec postavy.canvas": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 4840,
       "exportedPath": "gjb/čeština/knihy/lakomec-postavy.html",
       "dependencies": [
@@ -839,409 +849,421 @@
       ]
     },
     "GJB/Čeština/Knihy/Máj.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 90,
       "exportedPath": "gjb/čeština/knihy/máj.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Malý princ.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1230,
       "exportedPath": "gjb/čeština/knihy/malý-princ.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Na západní frontě klid.md": {
-      "modifiedTime": 1744534074010,
-      "sourceSize": 5967,
-      "exportedPath": "gjb/čeština/knihy/na-západní-frontě-klid.html",
-      "dependencies": []
-    },
-    "GJB/Čeština/Knihy/Na západní frontě klid.html": {
-      "modifiedTime": 1744534074010,
-      "sourceSize": 286768,
+      "modifiedTime": 1744550652725,
+      "sourceSize": 5970,
       "exportedPath": "gjb/čeština/knihy/na-západní-frontě-klid.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/R.U.R..md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 965,
       "exportedPath": "gjb/čeština/knihy/r.u.r..html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Revizor.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 6397,
       "exportedPath": "gjb/čeština/knihy/revizor.html",
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Romeo a Julie.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 206,
       "exportedPath": "gjb/čeština/knihy/romeo-a-julie.html",
       "dependencies": []
     },
+    "GJB/Čeština/Knihy/Zmizet.md": {
+      "modifiedTime": 1744550652725,
+      "sourceSize": 12037,
+      "exportedPath": "gjb/čeština/knihy/zmizet.html",
+      "dependencies": []
+    },
+    "GJB/Čeština/Knihy/Zmizet-J.md": {
+      "modifiedTime": 1744550652725,
+      "sourceSize": 8340,
+      "exportedPath": "gjb/čeština/knihy/zmizet-j.html",
+      "dependencies": []
+    },
     "GJB/Čeština/Kubkis - rozbory/1984 - G. Orwell.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 29962,
       "exportedPath": "gjb/čeština/kubkis-rozbory/1984-g.-orwell.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Audience - V. Havel.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 27993,
       "exportedPath": "gjb/čeština/kubkis-rozbory/audience-v.-havel.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Bílá nemoc - K. Čapek.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 30084,
       "exportedPath": "gjb/čeština/kubkis-rozbory/bílá-nemoc-k.-čapek.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Čekání na Godota - S. Beckett.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 28240,
       "exportedPath": "gjb/čeština/kubkis-rozbory/čekání-na-godota-s.-beckett.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/DĚJ Velký Gatsby - F. S. Fitzgerald.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 27894,
       "exportedPath": "gjb/čeština/kubkis-rozbory/děj-velký-gatsby-f.-s.-fitzgerald.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Edison - V. Nezval.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 28436,
       "exportedPath": "gjb/čeština/kubkis-rozbory/edison-v.-nezval.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Farma zvířat - G. Orwell.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 34274,
       "exportedPath": "gjb/čeština/kubkis-rozbory/farma-zvířat-g.-orwell.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Král Oidipus - Sofoklés.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 26083,
       "exportedPath": "gjb/čeština/kubkis-rozbory/král-oidipus-sofoklés.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Krysař - V. Dyk.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 30554,
       "exportedPath": "gjb/čeština/kubkis-rozbory/krysař-v.-dyk.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Lakomec - Molière.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 27138,
       "exportedPath": "gjb/čeština/kubkis-rozbory/lakomec-molière.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Máj - K. H. Mácha.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 29846,
       "exportedPath": "gjb/čeština/kubkis-rozbory/máj-k.-h.-mácha.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Měsíce - K. Toman.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 27296,
       "exportedPath": "gjb/čeština/kubkis-rozbory/měsíce-k.-toman.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Návštěva staré dámy - F. Dürenmatt.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 31142,
       "exportedPath": "gjb/čeština/kubkis-rozbory/návštěva-staré-dámy-f.-dürenmatt.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/NEDODĚLÁNO Báječná léta pod psa - M. Viewegh.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 25058,
       "exportedPath": "gjb/čeština/kubkis-rozbory/nedoděláno-báječná-léta-pod-psa-m.-viewegh.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Noc na Karlštejně - J. Vrchlický.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 30506,
       "exportedPath": "gjb/čeština/kubkis-rozbory/noc-na-karlštejně-j.-vrchlický.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/O myších a lidech - J. Steinbeck.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 29122,
       "exportedPath": "gjb/čeština/kubkis-rozbory/o-myších-a-lidech-j.-steinbeck.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Obraz Doriana Graye - O. Wilde.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 29342,
       "exportedPath": "gjb/čeština/kubkis-rozbory/obraz-doriana-graye-o.-wilde.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/R.U.R. - K. Čapek.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 28370,
       "exportedPath": "gjb/čeština/kubkis-rozbory/r.u.r.-k.-čapek.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Revizor - N. V. Gogol.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 26776,
       "exportedPath": "gjb/čeština/kubkis-rozbory/revizor-n.-v.-gogol.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/Svatý Xaverius - J. Arbes.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 27532,
       "exportedPath": "gjb/čeština/kubkis-rozbory/svatý-xaverius-j.-arbes.docx",
       "dependencies": []
     },
     "GJB/Čeština/Kubkis - rozbory/template.docx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 20978,
       "exportedPath": "gjb/čeština/kubkis-rozbory/template.docx",
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Bajka.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 98,
       "exportedPath": "gjb/čeština/lit.-druhy/lit.-poddruhy/bajka.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Novela.md": {
-      "modifiedTime": 1744534074010,
-      "sourceSize": 475,
+      "modifiedTime": 1744550652725,
+      "sourceSize": 595,
       "exportedPath": "gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html",
       "dependencies": []
     },
+    "GJB/Čeština/Lit. druhy/Lit. poddruhy/Povídka.md": {
+      "modifiedTime": 1744550652725,
+      "sourceSize": 370,
+      "exportedPath": "gjb/čeština/lit.-druhy/lit.-poddruhy/povídka.html",
+      "dependencies": []
+    },
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Román.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 452,
       "exportedPath": "gjb/čeština/lit.-druhy/lit.-poddruhy/román.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Romaneto.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 124,
       "exportedPath": "gjb/čeština/lit.-druhy/lit.-poddruhy/romaneto.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Tragédie.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1084,
       "exportedPath": "gjb/čeština/lit.-druhy/lit.-poddruhy/tragédie.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Drama.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 51,
       "exportedPath": "gjb/čeština/lit.-druhy/drama.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Epika.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 298,
       "exportedPath": "gjb/čeština/lit.-druhy/epika.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Literární druhy.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 39,
       "exportedPath": "gjb/čeština/lit.-druhy/literární-druhy.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Lyrika.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/lit.-druhy/lyrika.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Beatníci.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 312,
       "exportedPath": "gjb/čeština/lit.-směry/beatníci.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Demokratický proud 1.rep..md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 379,
       "exportedPath": "gjb/čeština/lit.-směry/demokratický-proud-1.rep..html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Existencialismus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/lit.-směry/existencialismus.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Klasicismus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 930,
       "exportedPath": "gjb/čeština/lit.-směry/klasicismus.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Komedie de larte.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 100,
       "exportedPath": "gjb/čeština/lit.-směry/komedie-de-larte.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Meziválečná literatura.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 142,
       "exportedPath": "gjb/čeština/lit.-směry/meziválečná-literatura.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Národní obrození.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/lit.-směry/národní-obrození.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Naturalismus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 799,
       "exportedPath": "gjb/čeština/lit.-směry/naturalismus.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Pátečníci.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 336,
       "exportedPath": "gjb/čeština/lit.-směry/pátečníci.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Postmoderna.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 447,
       "exportedPath": "gjb/čeština/lit.-směry/postmoderna.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Prokletí básníci.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 739,
       "exportedPath": "gjb/čeština/lit.-směry/prokletí-básníci.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Reakce na II. sv. válku v literatuře.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 219,
       "exportedPath": "gjb/čeština/lit.-směry/reakce-na-ii.-sv.-válku-v-literatuře.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Realismus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1177,
       "exportedPath": "gjb/čeština/lit.-směry/realismus.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Renesance.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1043,
       "exportedPath": "gjb/čeština/lit.-směry/renesance.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Romantismus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 2012,
       "exportedPath": "gjb/čeština/lit.-směry/romantismus.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Sci-fi.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 668,
       "exportedPath": "gjb/čeština/lit.-směry/sci-fi.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Symbolismus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 927,
       "exportedPath": "gjb/čeština/lit.-směry/symbolismus.html",
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Ztracená generace.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 479,
       "exportedPath": "gjb/čeština/lit.-směry/ztracená-generace.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Poznámky-od-Mari/1.jpeg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 280734,
       "exportedPath": "gjb/čeština/slohy/poznámky-od-mari/1.jpeg",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Poznámky-od-Mari/2.jpeg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 191919,
       "exportedPath": "gjb/čeština/slohy/poznámky-od-mari/2.jpeg",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Poznámky-od-Mari/3.jpeg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 236486,
       "exportedPath": "gjb/čeština/slohy/poznámky-od-mari/3.jpeg",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Útvary/Článek.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1295,
       "exportedPath": "gjb/čeština/slohy/útvary/článek.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Útvary/Formální dopis.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 897,
       "exportedPath": "gjb/čeština/slohy/útvary/formální-dopis.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Útvary/Charakteristika.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1074,
       "exportedPath": "gjb/čeština/slohy/útvary/charakteristika.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Útvary/Popis.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1587,
       "exportedPath": "gjb/čeština/slohy/útvary/popis.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Útvary/Recenze.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 879,
       "exportedPath": "gjb/čeština/slohy/útvary/recenze.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Útvary/Úvaha.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1082,
       "exportedPath": "gjb/čeština/slohy/útvary/úvaha.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Útvary/Vypravování.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1038,
       "exportedPath": "gjb/čeština/slohy/útvary/vypravování.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Útvary/Zpráva a oznámení.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 876,
       "exportedPath": "gjb/čeština/slohy/útvary/zpráva-a-oznámení.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Dotazy.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 92,
       "exportedPath": "gjb/čeština/slohy/dotazy.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Přímá řeč.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 994,
       "exportedPath": "gjb/čeština/slohy/přímá-řeč.html",
       "dependencies": [
@@ -1251,241 +1273,255 @@
       ]
     },
     "GJB/Čeština/Slohy/Slohove utvary k maturitni zkousce z ceskeho jazyka.pdf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 544671,
       "exportedPath": "gjb/čeština/slohy/slohove-utvary-k-maturitni-zkousce-z-ceskeho-jazyka.pdf",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Slohy - přehled.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 55,
       "exportedPath": "gjb/čeština/slohy/slohy-přehled.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohy/Vypravování.odt": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 11204,
       "exportedPath": "gjb/čeština/slohy/vypravování.odt",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/anselm-lezici-spici.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 322233,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/anselm-lezici-spici.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/čipera.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 125760,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/čipera.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/detektiv.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 315177,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/detektiv.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/eliška.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 201064,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/eliška.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/frosina.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 219438,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/frosina.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/harpagon.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 236162,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/harpagon.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/kleantes.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 186076,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/kleantes.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/marianna.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 160125,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/marianna.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/podkonni.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 164820,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/podkonni.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/pravnik.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 184157,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/pravnik.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Lakomec - postavy/valér.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 95171,
       "exportedPath": "gjb/čeština/src/lakomec-postavy/valér.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/Dante Alighieri.pdf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 585570,
       "exportedPath": "gjb/čeština/src/dante-alighieri.pdf",
       "dependencies": []
     },
     "GJB/Čeština/src/Francesco Petrarca - sonety.pdf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 358320,
       "exportedPath": "gjb/čeština/src/francesco-petrarca-sonety.pdf",
       "dependencies": []
     },
     "GJB/Čeština/src/opona-nd.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 37172,
       "exportedPath": "gjb/čeština/src/opona-nd.jpg",
       "dependencies": []
     },
     "GJB/Čeština/src/př-věta.PNG": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 4683,
       "exportedPath": "gjb/čeština/src/př-věta.png",
       "dependencies": []
     },
     "GJB/Čeština/src/př-věta-př.PNG": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 4113,
       "exportedPath": "gjb/čeština/src/př-věta-př.png",
       "dependencies": []
     },
     "GJB/Čeština/src/Renesance.pdf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1305220,
       "exportedPath": "gjb/čeština/src/renesance.pdf",
       "dependencies": []
     },
     "GJB/Čeština/src/věta-př.PNG": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 3995,
       "exportedPath": "gjb/čeština/src/věta-př.png",
       "dependencies": []
     },
     "GJB/Čeština/src/WILLIAM SHAKESPEARE.pdf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 243749,
       "exportedPath": "gjb/čeština/src/william-shakespeare.pdf",
       "dependencies": []
     },
     "GJB/Čeština/src/Základy historické mluvnice četiny.pdf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 487472,
       "exportedPath": "gjb/čeština/src/základy-historické-mluvnice-četiny.pdf",
       "dependencies": []
     },
     "GJB/Čeština/Aristetelova kompozice.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 33,
       "exportedPath": "gjb/čeština/aristetelova-kompozice.html",
       "dependencies": []
     },
     "GJB/Čeština/Barokní literatura.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 255,
       "exportedPath": "gjb/čeština/barokní-literatura.html",
       "dependencies": []
     },
+    "GJB/Čeština/Cena Jiřího Ortena.md": {
+      "modifiedTime": 1744550652725,
+      "sourceSize": 153,
+      "exportedPath": "gjb/čeština/cena-jiřího-ortena.html",
+      "dependencies": []
+    },
     "GJB/Čeština/Česká literatura po roce 1989.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 595,
       "exportedPath": "gjb/čeština/česká-literatura-po-roce-1989.html",
       "dependencies": []
     },
     "GJB/Čeština/Český realismus.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 22,
       "exportedPath": "gjb/čeština/český-realismus.html",
-      "dependencies": []
+      "dependencies": [
+        "gjb/čeština/src/opona-nd.jpg"
+      ]
     },
     "GJB/Čeština/Čeština panda.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 1333,
       "exportedPath": "gjb/čeština/čeština-panda.html",
       "dependencies": []
     },
     "GJB/Čeština/Deus ex machina.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 101,
       "exportedPath": "gjb/čeština/deus-ex-machina.html",
       "dependencies": []
     },
     "GJB/Čeština/Druhy vět.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 117,
       "exportedPath": "gjb/čeština/druhy-vět.html",
       "dependencies": []
     },
     "GJB/Čeština/Francouská balada.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 186,
       "exportedPath": "gjb/čeština/francouská-balada.html",
       "dependencies": []
     },
     "GJB/Čeština/Funkční styl.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/funkční-styl.html",
       "dependencies": []
     },
     "GJB/Čeština/Husitská literatura.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 2173,
       "exportedPath": "gjb/čeština/husitská-literatura.html",
       "dependencies": []
     },
     "GJB/Čeština/Kompozice.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 218,
       "exportedPath": "gjb/čeština/kompozice.html",
       "dependencies": []
     },
     "GJB/Čeština/Literatura podle úrovně.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 180,
       "exportedPath": "gjb/čeština/literatura-podle-úrovně.html",
       "dependencies": []
     },
     "GJB/Čeština/Literatura za komunismu.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 210,
       "exportedPath": "gjb/čeština/literatura-za-komunismu.html",
       "dependencies": []
     },
+    "GJB/Čeština/Magnesia Litera.md": {
+      "modifiedTime": 1744550652725,
+      "sourceSize": 227,
+      "exportedPath": "gjb/čeština/magnesia-litera.html",
+      "dependencies": []
+    },
     "GJB/Čeština/Májovci.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 685,
       "exportedPath": "gjb/čeština/májovci.html",
       "dependencies": []
     },
     "GJB/Čeština/Maturita četba.md": {
-      "modifiedTime": 1744534074010,
-      "sourceSize": 2742,
+      "modifiedTime": 1744550652725,
+      "sourceSize": 2737,
       "exportedPath": "gjb/čeština/maturita-četba.html",
       "dependencies": []
     },
     "GJB/Čeština/Maturita template - Jeník.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 715,
       "exportedPath": "gjb/čeština/maturita-template-jeník.html",
       "dependencies": []
     },
     "GJB/Čeština/Národní divadlo.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 290,
       "exportedPath": "gjb/čeština/národní-divadlo.html",
       "dependencies": [
@@ -1493,249 +1529,243 @@
       ]
     },
     "GJB/Čeština/Ohebné slovní druhy.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 52,
       "exportedPath": "gjb/čeština/ohebné-slovní-druhy.html",
       "dependencies": []
     },
     "GJB/Čeština/Podmět.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 289,
       "exportedPath": "gjb/čeština/podmět.html",
       "dependencies": []
     },
     "GJB/Čeština/Podstatná jména.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 100,
       "exportedPath": "gjb/čeština/podstatná-jména.html",
       "dependencies": []
     },
     "GJB/Čeština/Pointa.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 79,
       "exportedPath": "gjb/čeština/pointa.html",
       "dependencies": []
     },
     "GJB/Čeština/Poměry mezi větami.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 93,
       "exportedPath": "gjb/čeština/poměry-mezi-větami.html",
       "dependencies": []
     },
     "GJB/Čeština/Pravopis.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 50,
       "exportedPath": "gjb/čeština/pravopis.html",
       "dependencies": []
     },
     "GJB/Čeština/Předložky.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 132,
       "exportedPath": "gjb/čeština/předložky.html",
       "dependencies": []
     },
     "GJB/Čeština/Přídavná jména.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 154,
       "exportedPath": "gjb/čeština/přídavná-jména.html",
       "dependencies": []
     },
     "GJB/Čeština/Přísudek.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 66,
       "exportedPath": "gjb/čeština/přísudek.html",
       "dependencies": []
     },
     "GJB/Čeština/Římská literatura.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 57,
       "exportedPath": "gjb/čeština/římská-literatura.html",
       "dependencies": []
     },
     "GJB/Čeština/Skloňování přídavných jmeno.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 225,
       "exportedPath": "gjb/čeština/skloňování-přídavných-jmeno.html",
       "dependencies": []
     },
     "GJB/Čeština/Slohové postupy.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/slohové-postupy.html",
       "dependencies": []
     },
     "GJB/Čeština/Slovesa.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 400,
       "exportedPath": "gjb/čeština/slovesa.html",
       "dependencies": []
     },
     "GJB/Čeština/Souvětí.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 103,
       "exportedPath": "gjb/čeština/souvětí.html",
       "dependencies": []
     },
     "GJB/Čeština/Spojky.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 31,
       "exportedPath": "gjb/čeština/spojky.html",
       "dependencies": []
     },
     "GJB/Čeština/Staroslověnské a latinské písemnictví.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 2417,
       "exportedPath": "gjb/čeština/staroslověnské-a-latinské-písemnictví.html",
       "dependencies": []
     },
     "GJB/Čeština/Středověká literatura.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 2286,
       "exportedPath": "gjb/čeština/středověká-literatura.html",
       "dependencies": []
     },
     "GJB/Čeština/Tercína.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 476,
       "exportedPath": "gjb/čeština/tercína.html",
       "dependencies": []
     },
     "GJB/Čeština/toman-četba.xlsx": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 10576,
       "exportedPath": "gjb/čeština/toman-četba.xlsx",
       "dependencies": []
     },
     "GJB/Čeština/toman-četba.xls": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 10752,
       "exportedPath": "gjb/čeština/toman-četba.xls",
       "dependencies": []
     },
     "GJB/Čeština/toman-četba.pdf": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 72408,
       "exportedPath": "gjb/čeština/toman-četba.pdf",
       "dependencies": []
     },
     "GJB/Čeština/Verše.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 463,
       "exportedPath": "gjb/čeština/verše.html",
       "dependencies": []
     },
     "GJB/Čeština/Větné členy.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 864,
       "exportedPath": "gjb/čeština/větné-členy.html",
       "dependencies": []
     },
     "GJB/Čeština/Vrstvy češtiny.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 576,
       "exportedPath": "gjb/čeština/vrstvy-češtiny.html",
       "dependencies": []
     },
     "GJB/Čeština/Zájmena.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 664,
       "exportedPath": "gjb/čeština/zájmena.html",
       "dependencies": []
     },
     "GJB/Čeština/Zásada tří jednot.md": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 0,
       "exportedPath": "gjb/čeština/zásada-tří-jednot.html",
       "dependencies": []
     },
     "lib/media/anselm-lezici-spici.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 322233,
       "exportedPath": "lib/media/anselm-lezici-spici.jpg",
       "dependencies": []
     },
     "lib/media/valér.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 95171,
       "exportedPath": "lib/media/valér.jpg",
       "dependencies": []
     },
     "lib/media/harpagon.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 236162,
       "exportedPath": "lib/media/harpagon.jpg",
       "dependencies": []
     },
     "lib/media/eliška.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 201064,
       "exportedPath": "lib/media/eliška.jpg",
       "dependencies": []
     },
     "lib/media/frosina.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 219438,
       "exportedPath": "lib/media/frosina.jpg",
       "dependencies": []
     },
     "lib/media/marianna.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 160125,
       "exportedPath": "lib/media/marianna.jpg",
       "dependencies": []
     },
     "lib/media/kleantes.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 186076,
       "exportedPath": "lib/media/kleantes.jpg",
       "dependencies": []
     },
     "lib/media/čipera.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 125760,
       "exportedPath": "lib/media/čipera.jpg",
       "dependencies": []
     },
     "lib/media/podkonni.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 164820,
       "exportedPath": "lib/media/podkonni.jpg",
       "dependencies": []
     },
     "lib/media/detektiv.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 315177,
       "exportedPath": "lib/media/detektiv.jpg",
       "dependencies": []
     },
     "lib/media/pravnik.jpg": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 184157,
       "exportedPath": "lib/media/pravnik.jpg",
       "dependencies": []
     },
     "lib/media/věta-př.png": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 3995,
       "exportedPath": "lib/media/věta-př.png",
       "dependencies": []
     },
     "lib/media/př-věta.png": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 4683,
       "exportedPath": "lib/media/př-věta.png",
       "dependencies": []
     },
     "lib/media/př-věta-př.png": {
-      "modifiedTime": 1744534074010,
+      "modifiedTime": 1744550652725,
       "sourceSize": 4113,
       "exportedPath": "lib/media/př-věta-př.png",
-      "dependencies": []
-    },
-    "gjb/čeština/src/opona-nd.jpg": {
-      "modifiedTime": 1744534074010,
-      "sourceSize": 37172,
-      "exportedPath": "gjb/čeština/src/opona-nd.jpg",
       "dependencies": []
     }
   }
