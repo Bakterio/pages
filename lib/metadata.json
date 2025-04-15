@@ -1,8 +1,8 @@
 {
   "vaultName": "obsidian-vault",
-  "lastExport": 1744550652725,
+  "lastExport": 1744712089674,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon is-focused",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
@@ -12,6 +12,7 @@
     "GJB/Čeština/Autoři/Alois Jirásek.md",
     "GJB/Čeština/Autoři/Antoine de Saint-Exupéry.md",
     "GJB/Čeština/Autoři/Antonín Sova.md",
+    "GJB/Čeština/Autoři/Arnošt Lustig.md",
     "GJB/Čeština/Autoři/Arthur Rimbaud.md",
     "GJB/Čeština/Autoři/Autoři.md",
     "GJB/Čeština/Autoři/Božena Němcová.md",
@@ -45,6 +46,7 @@
     "GJB/Čeština/Autoři/Mistr Jan Hus.md",
     "GJB/Čeština/Autoři/Moliére.md",
     "GJB/Čeština/Autoři/Nikolaj Vasilijevič Gogol.md",
+    "GJB/Čeština/Autoři/Ota Pavel.md",
     "GJB/Čeština/Autoři/Otakar Březina.md",
     "GJB/Čeština/Autoři/Paul Verlaine.md",
     "GJB/Čeština/Autoři/Petr Chelčický.md",
@@ -72,6 +74,7 @@
     "GJB/Čeština/Knihy/R.U.R..md",
     "GJB/Čeština/Knihy/Revizor.md",
     "GJB/Čeština/Knihy/Romeo a Julie.md",
+    "GJB/Čeština/Knihy/Smrt krásných srnců.md",
     "GJB/Čeština/Knihy/Zmizet.md",
     "GJB/Čeština/Knihy/Zmizet-J.md",
     "GJB/Čeština/Kubkis - rozbory/1984 - G. Orwell.docx",
@@ -172,6 +175,7 @@
     "GJB/Čeština/Husitská literatura.md",
     "GJB/Čeština/Kompozice.md",
     "GJB/Čeština/Literatura podle úrovně.md",
+    "GJB/Čeština/Literatura s židovskou tématikou.md",
     "GJB/Čeština/Literatura za komunismu.md",
     "GJB/Čeština/Magnesia Litera.md",
     "GJB/Čeština/Májovci.md",
@@ -204,20 +208,6 @@
     "GJB/Čeština/Vrstvy češtiny.md",
     "GJB/Čeština/Zájmena.md",
     "GJB/Čeština/Zásada tří jednot.md",
-    "lib/media/anselm-lezici-spici.jpg",
-    "lib/media/valér.jpg",
-    "lib/media/harpagon.jpg",
-    "lib/media/eliška.jpg",
-    "lib/media/frosina.jpg",
-    "lib/media/marianna.jpg",
-    "lib/media/kleantes.jpg",
-    "lib/media/čipera.jpg",
-    "lib/media/podkonni.jpg",
-    "lib/media/detektiv.jpg",
-    "lib/media/pravnik.jpg",
-    "lib/media/věta-př.png",
-    "lib/media/př-věta.png",
-    "lib/media/př-věta-př.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -248,7 +238,22 @@
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/styles/snippets.css",
+    "lib/media/anselm-lezici-spici.jpg",
+    "lib/media/valér.jpg",
+    "lib/media/harpagon.jpg",
+    "lib/media/eliška.jpg",
+    "lib/media/frosina.jpg",
+    "lib/media/marianna.jpg",
+    "lib/media/kleantes.jpg",
+    "lib/media/čipera.jpg",
+    "lib/media/podkonni.jpg",
+    "lib/media/detektiv.jpg",
+    "lib/media/pravnik.jpg",
+    "lib/media/věta-př.png",
+    "lib/media/př-věta.png",
+    "lib/media/př-věta-př.png",
+    "gjb/čeština/src/opona-nd.jpg"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -291,187 +296,187 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 78789,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 80171,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 11396,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 12809,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 12922,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 279,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 4764,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1744550652725,
+      "modifiedTime": 1744712089674,
       "sourceSize": 20769,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -693,8 +698,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Milan Kundera.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 1739,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 1773,
       "exportedPath": "gjb/čeština/autoři/milan-kundera.html",
       "dependencies": []
     },
@@ -711,8 +716,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Autoři/Nikolaj Vasilijevič Gogol.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 577,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 725,
       "exportedPath": "gjb/čeština/autoři/nikolaj-vasilijevič-gogol.html",
       "dependencies": []
     },
@@ -873,8 +878,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Knihy/Revizor.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 6397,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 6398,
       "exportedPath": "gjb/čeština/knihy/revizor.html",
       "dependencies": []
     },
@@ -1029,8 +1034,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Lit. druhy/Lit. poddruhy/Novela.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 595,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 632,
       "exportedPath": "gjb/čeština/lit.-druhy/lit.-poddruhy/novela.html",
       "dependencies": []
     },
@@ -1095,8 +1100,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Existencialismus.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 0,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 704,
       "exportedPath": "gjb/čeština/lit.-směry/existencialismus.html",
       "dependencies": []
     },
@@ -1113,8 +1118,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Meziválečná literatura.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 142,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 172,
       "exportedPath": "gjb/čeština/lit.-směry/meziválečná-literatura.html",
       "dependencies": []
     },
@@ -1155,8 +1160,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Lit. Směry/Realismus.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 1177,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 1128,
       "exportedPath": "gjb/čeština/lit.-směry/realismus.html",
       "dependencies": []
     },
@@ -1491,8 +1496,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Literatura za komunismu.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 210,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 1338,
       "exportedPath": "gjb/čeština/literatura-za-komunismu.html",
       "dependencies": []
     },
@@ -1509,8 +1514,8 @@
       "dependencies": []
     },
     "GJB/Čeština/Maturita četba.md": {
-      "modifiedTime": 1744550652725,
-      "sourceSize": 2737,
+      "modifiedTime": 1744712089674,
+      "sourceSize": 2704,
       "exportedPath": "gjb/čeština/maturita-četba.html",
       "dependencies": []
     },
@@ -1766,6 +1771,30 @@
       "modifiedTime": 1744550652725,
       "sourceSize": 4113,
       "exportedPath": "lib/media/př-věta-př.png",
+      "dependencies": []
+    },
+    "GJB/Čeština/Autoři/Arnošt Lustig.md": {
+      "modifiedTime": 1744712089674,
+      "sourceSize": 405,
+      "exportedPath": "gjb/čeština/autoři/arnošt-lustig.html",
+      "dependencies": []
+    },
+    "GJB/Čeština/Autoři/Ota Pavel.md": {
+      "modifiedTime": 1744712089674,
+      "sourceSize": 948,
+      "exportedPath": "gjb/čeština/autoři/ota-pavel.html",
+      "dependencies": []
+    },
+    "GJB/Čeština/Knihy/Smrt krásných srnců.md": {
+      "modifiedTime": 1744712089674,
+      "sourceSize": 7212,
+      "exportedPath": "gjb/čeština/knihy/smrt-krásných-srnců.html",
+      "dependencies": []
+    },
+    "GJB/Čeština/Literatura s židovskou tématikou.md": {
+      "modifiedTime": 1744712089674,
+      "sourceSize": 539,
+      "exportedPath": "gjb/čeština/literatura-s-židovskou-tématikou.html",
       "dependencies": []
     }
   }
